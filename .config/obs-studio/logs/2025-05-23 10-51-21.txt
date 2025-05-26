@@ -1,0 +1,48 @@
+10:51:21.217: [Safe Mode] Unclean shutdown detected!
+10:51:25.542: [Safe Mode] User elected to launch normally.
+10:51:25.542: Platform: Wayland
+10:51:25.542: CPU Name: 12th Gen Intel(R) Core(TM) i7-12650H
+10:51:25.542: CPU Speed: 799.751MHz
+10:51:25.543: Physical Cores: 10, Logical Cores: 16
+10:51:25.543: Physical Memory: 15649MB Total, 5484MB Free
+10:51:25.544: Kernel Version: Linux 6.14.6-arch1-1
+10:51:25.544: Distribution: "Arch Linux" Unknown
+10:51:25.544: Desktop Environment: Hyprland
+10:51:25.544: Session Type: wayland
+10:51:25.549: Qt Version: 6.9.0 (runtime), 6.9.0 (compiled)
+10:51:25.550: Portable mode: false
+10:51:25.569: OBS 31.0.3 (linux)
+10:51:25.569: ---------------------------------
+10:51:25.570: ---------------------------------
+10:51:25.570: audio settings reset:
+10:51:25.570: 	samples per sec: 48000
+10:51:25.570: 	speakers:        2
+10:51:25.570: 	max buffering:   960 milliseconds
+10:51:25.570: 	buffering type:  dynamically increasing
+10:51:25.570: ---------------------------------
+10:51:25.570: Initializing OpenGL...
+10:51:25.570: Using EGL/Wayland
+10:51:25.599: Initialized EGL 1.5
+10:51:25.608: Loading up OpenGL on adapter Intel Mesa Intel(R) Graphics (ADL GT2)
+10:51:25.608: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.1.1-arch1.1, shading language 4.60
+10:51:25.631: ---------------------------------
+10:51:25.631: video settings reset:
+10:51:25.631: 	base resolution:   1920x1080
+10:51:25.631: 	output resolution: 1920x1080
+10:51:25.631: 	downscale filter:  Bicubic
+10:51:25.631: 	fps:               60/1
+10:51:25.631: 	format:            NV12
+10:51:25.631: 	YUV mode:          Rec. 709/Partial
+10:51:25.631: NV12 texture support enabled
+10:51:25.631: P010 texture support not available
+10:51:25.638: Audio monitoring device:
+10:51:25.638: 	name: Default
+10:51:25.638: 	id: default
+10:51:25.638: ---------------------------------
+10:51:25.644: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:51:25.649: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+10:51:25.654: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:51:25.654: Failed to initialize module 'decklink.so'
+10:51:25.754: [pipewire] No capture sources available
+10:51:25.770: v4l2loopback not installed, virtual camera not registered
+10:51:25.805: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly

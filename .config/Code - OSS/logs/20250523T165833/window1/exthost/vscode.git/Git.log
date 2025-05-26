@@ -1,0 +1,50 @@
+2025-05-23 16:58:34.740 [info] [main] Log level: Trace
+2025-05-23 16:58:34.740 [info] [main] Validating found git in: "git"
+2025-05-23 16:58:34.740 [info] [main] Using git "2.49.0" from "git"
+2025-05-23 16:58:34.740 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-23 16:58:34.740 [trace] [Model][doInitialScan] Settings: autoRepositoryDetection=true, openRepositoryInParentFolders=prompt
+2025-05-23 16:58:34.740 [trace] [Model][onDidChangeWorkspaceFolders] Workspace folders: []
+2025-05-23 16:58:34.740 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-23 16:58:42.266 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 16:59:04.462 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 16:59:04.541 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 16:59:10.463 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:01:13.491 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:01:22.761 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:01:29.248 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:01:32.623 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:03:03.762 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:03:34.715 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:05:15.211 [trace] [Model][onDidChangeVisibleTextEditors] Open repository for editor resource /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:15.211 [trace] [Model][openRepository] Repository: /home/waturrr/.config/Code - OSS/User
+2025-05-23 17:05:15.226 [info] > git rev-parse --show-toplevel [9ms]
+2025-05-23 17:05:15.226 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-23 17:05:15.226 [trace] [Model][openRepository] Opening repository for path='/home/waturrr/.config/Code - OSS/User' failed. Error:Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+2025-05-23 17:05:38.216 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:05:40.311 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:05:44.735 [trace] [Model][onDidChangeConfiguration] Workspace folders: []
+2025-05-23 17:05:52.571 [info] [main] Log level: Trace
+2025-05-23 17:05:52.571 [info] [main] Validating found git in: "git"
+2025-05-23 17:05:52.571 [info] [main] Using git "2.49.0" from "git"
+2025-05-23 17:05:52.571 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-23 17:05:52.571 [trace] [Model][doInitialScan] Settings: autoRepositoryDetection=true, openRepositoryInParentFolders=prompt
+2025-05-23 17:05:52.571 [trace] [Model][onDidChangeWorkspaceFolders] Workspace folders: []
+2025-05-23 17:05:52.571 [trace] [Model][onDidChangeVisibleTextEditors] Open repository for editor resource /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:52.571 [trace] [Model][openRepository] Repository: /home/waturrr/.config/Code - OSS/User
+2025-05-23 17:05:52.571 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-23 17:05:52.571 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-23 17:05:52.571 [trace] [Model][openRepository] Opening repository for path='/home/waturrr/.config/Code - OSS/User' failed. Error:Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+2025-05-23 17:05:52.571 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-23 17:05:54.444 [trace] [Model][onDidChangeConfiguration] Workspace folders: []

@@ -1,0 +1,137 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "6a6b928f3957c258e84d54932a79f1d7f3798ddd111d0b931a102f6afa926e7f",
+    "telemetry.devDeviceId": "7f04e124-8947-4f27-92db-493ac2082cbc",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/waturrr"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/waturrr/.config/hypr": "__default__profile__",
+            "file:///home/waturrr/.config": "__default__profile__",
+            "file:///home/waturrr/.config/rofi": "__default__profile__",
+            "file:///home/waturrr/.config/matugen": "__default__profile__",
+            "file:///home/waturrr/.config/waybar": "__default__profile__",
+            "file:///home/waturrr/.config/neofetch": "__default__profile__",
+            "file:///home/waturrr/.config/swaync": "__default__profile__",
+            "file:///opt/spotify": "__default__profile__",
+            "file:///home/waturrr/.config/spicetify": "__default__profile__",
+            "file:///home/waturrr/.spicetify": "__default__profile__",
+            "vscode-remote://codespaces%2Brefactored-journey-q5j5r4gxgjph4qp/workspaces/hyprland-dots": "__default__profile__",
+            "file:///home/waturrr": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e2e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#11111b",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#181825",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#11111b",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#11111b",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/waturrr",
+            "backupPath": "/home/waturrr/.config/Code/Backups/24f82501ba1ee5699b932863b84a387e",
+            "uiState": {
+                "mode": 1,
+                "x": 15,
+                "y": 60,
+                "width": 936,
+                "height": 1005
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 240,
+            "workspaces": {
+                "eea531fffd42055dcb8dd4a22f993629": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5a744863e1c6a380fb9f81d2a3c7e6d1": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "39e3543189800d45813cb64723f6bb16": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6bd01331bac4adaa4f51c3aac92c9291": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3db804e7ce78cecc6603e5ebe4147951": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "b610c426f3192e6167db6cf0380645c7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c78e90ff06788a5ae53235714fd447b6": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e608c16444876ed1e1c7e27d1a8aca58": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "bfbe62f4fc1ee5f53f928b0906d13dfb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9d2e6becbb4eae93386abc1021903aac": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "dd785560bb9a939e20f62411dd6daa2e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3f859aa6bc6498e21b6e6d75525e49b9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "348eac6a40f33a72f15fee7b135fd7bb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

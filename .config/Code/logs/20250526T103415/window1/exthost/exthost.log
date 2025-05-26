@@ -1,0 +1,121 @@
+2025-05-26 10:34:18.299 [info] Extension host with pid 80493 started
+2025-05-26 10:34:18.299 [info] Skipping acquiring lock for /home/waturrr/.config/Code/User/workspaceStorage/5a744863e1c6a380fb9f81d2a3c7e6d1.
+2025-05-26 10:34:18.394 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-26 10:34:18.412 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 10:34:18.418 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 10:34:18.456 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-26 10:34:18.492 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-26 10:34:18.671 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-26 10:34:18.673 [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css, startup: true, activationEvent: '*'
+2025-05-26 10:34:18.681 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-26 10:34:18.705 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-26 10:34:18.754 [info] Eager extensions activated
+2025-05-26 10:34:18.778 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:34:18.779 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:34:18.791 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:34:18.794 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:34:18.844 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:34:18.863 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:34:18.904 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:34:19.170 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:34:19.344 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-05-26 10:35:32.736 [error] Error: e is not iterable
+
+TypeError: e is not iterable
+    at LZ.setItems (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:419:27542)
+    at Ya._computeFn (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:419:27274)
+    at Ya._recompute (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:419:21114)
+    at Ya.get (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:419:20736)
+    at Ya.reportChanges (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:419:3637)
+    at NZ.endUpdate (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:419:27059)
+    at NHe (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:419:26778)
+    at Ya.recomputeInitiallyAndOnChange (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:419:4213)
+    at fB.init (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:608:1346)
+    at Timeout._onTimeout (/home/waturrr/.vscode/extensions/github.copilot-chat-0.27.2/dist/extension.js:387:12)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-05-26 10:35:32.878 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:35:32.940 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:35:34.950 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:35:35.959 [error] Error: Failed to execute git
+    at t.Git._exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:463947)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at t.Git.exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:463066)
+    at z.exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:468740)
+    at z.handleCommitError (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:477235)
+    at z.commit (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:476745)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:586593
+    at O.retryRun (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:602262)
+    at O.run (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601866)
+    at O.commit (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:586275)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:333367
+2025-05-26 10:35:37.319 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:35:42.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:35:47.462 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:35:48.277 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:35:52.535 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:35:57.607 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:02.680 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:07.755 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:12.823 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:12.895 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:17.965 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:23.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:28.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:33.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:38.257 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:43.338 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:48.407 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:53.488 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:36:58.590 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:37:09.795 [error] Error: Failed to execute git
+    at t.Git._exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:463947)
+    at t.Git.exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:463066)
+    at z.exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:468740)
+    at z.getRemotesGit (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:491649)
+    at z.getRemotes (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:491381)
+    at async Promise.all (index 1)
+    at O._updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:603034)
+    at O.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:602859)
+    at O.run (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:602067)
+    at O.status (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:582267)
+2025-05-26 10:37:09.797 [error] Error: Failed to execute git
+    at t.Git._exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:463947)
+    at t.Git.exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:463066)
+    at z.exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:468740)
+    at z.getRemotesGit (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:491649)
+    at z.getRemotes (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:491381)
+    at async Promise.all (index 1)
+    at O._updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:603034)
+    at O.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:602859)
+    at O.run (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:602067)
+    at O.status (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:582267)
+2025-05-26 10:37:26.171 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-05-26 10:38:58.908 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:38:58.969 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:39:00.316 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:39:04.710 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:39:05.401 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:39:40.079 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:39:45.143 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:39:50.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:39:55.290 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:00.357 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:04.765 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:05.424 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:10.517 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:15.579 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:20.657 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:25.723 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:30.788 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:35.853 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:40.933 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:46.019 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:51.099 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:40:56.168 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:41:01.246 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:41:06.315 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:41:11.385 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:41:16.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4435
+2025-05-26 10:42:16.805 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-26 10:42:16.848 [info] Extension host with pid 80493 exiting with code 0

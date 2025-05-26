@@ -1,0 +1,575 @@
+2025-05-23 16:58:33.848 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.config/Code - OSS/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 16:58:33.848 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/waturrr/.config/Code - OSS/User/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/waturrr/.config/Code - OSS/User/settings.json')
+2025-05-23 16:58:33.848 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/waturrr/.config/Code - OSS/User/settings.json (correlationId: undefined)
+2025-05-23 16:58:33.848 [debug] Starting VS Code
+2025-05-23 16:58:33.848 [debug] from: /usr/lib/code
+2025-05-23 16:58:33.848 [debug] args: {"_":[],"diff":false,"merge":false,"add":false,"remove":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"update-extensions":false,"version":false,"verbose":true,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-lcd-text":false,"disable-gpu":false,"disable-chromium-sandbox":false,"sandbox":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"use-inmemory-secretstorage":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"do-not-include-pack-dependencies":false,"trace":false,"trace-memory-infra":false,"preserve-env":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"disable-gpu-sandbox":false,"__enable-file-policy":false,"enable-coi":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"disable-dev-shm-usage":false,"profile-temp":false,"logsPath":"/home/waturrr/.config/Code - OSS/logs/20250523T165833"}
+2025-05-23 16:58:33.848 [trace] Resolving machine identifier...
+2025-05-23 16:58:33.848 [trace] Resolved machine identifier: 6a6b928f3957c258e84d54932a79f1d7f3798ddd111d0b931a102f6afa926e7f
+2025-05-23 16:58:33.848 [trace] Main->SharedProcess#connect
+2025-05-23 16:58:33.848 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User'
+2025-05-23 16:58:33.849 [trace] StorageMainService: creating application storage
+2025-05-23 16:58:33.851 [trace] ElectronURLListener: waiting for window to be ready to handle URLs...
+2025-05-23 16:58:33.851 [trace] lifecycle (main): phase changed (value: 2)
+2025-05-23 16:58:33.852 [trace] windowsManager#open
+2025-05-23 16:58:33.852 [trace] windowsManager#open pathsToOpen [{"backupPath":"/home/waturrr/.config/Code - OSS/Backups/1747999463143"}]
+2025-05-23 16:58:33.852 [trace] windowsManager#doOpenEmpty {"restore":true,"forceNewWindow":true}
+2025-05-23 16:58:33.853 [trace] IPC Object URL: Registered new channel vscode:ab87588c-be7c-4ba3-9a01-af016252e470.
+2025-05-23 16:58:33.853 [trace] window#validateWindowState: validating window state on 1 display(s) {"mode":1,"x":0,"y":0,"width":960,"height":516}
+2025-05-23 16:58:33.854 [trace] window#validateWindowState: single monitor working area {"x":0,"y":0,"width":1920,"height":1080}
+2025-05-23 16:58:33.854 [trace] window#ctor: using window state {"mode":1,"x":0,"y":0,"width":960,"height":516}
+2025-05-23 16:58:33.871 [trace] window#load: attempt to load window (id: 1)
+2025-05-23 16:58:33.874 [trace] windowsManager#open used window count 1 (workspacesToOpen: 0, foldersToOpen: 0, emptyToRestore: 1, maybeOpenEmptyWindow: false)
+2025-05-23 16:58:33.874 [trace] lifecycle (main): phase changed (value: 3)
+2025-05-23 16:58:33.874 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-05-23 16:58:33.875 [info] update#setState disabled
+2025-05-23 16:58:33.875 [info] update#ctor - updates are disabled as there is no update URL
+2025-05-23 16:58:33.905 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-05-23 16:58:34.086 [trace] StorageMainService: creating workspace storage (1747999463143)
+2025-05-23 16:58:34.241 [trace] window#load: window reported ready (id: 1)
+2025-05-23 16:58:34.241 [trace] ElectronURLListener#flush(): flushing URLs
+2025-05-23 16:58:34.251 [trace] [SharedProcess] onWindowConnection for: vscode:createSharedProcessChannelConnectionResult
+2025-05-23 16:58:34.251 [trace] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2025-05-23 16:58:34.254 [trace] [UtilityProcess type: shared-process, pid: <none>]: payload sent via postMessage()
+2025-05-23 16:58:34.255 [trace] [UtilityProcessWorker]: createWorker(window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2025-05-23 16:58:34.255 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2025-05-23 16:58:34.258 [trace] [UtilityProcess type: shared-process, pid: 9444]: successfully created
+2025-05-23 16:58:34.258 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 9445]: successfully created
+2025-05-23 16:58:34.300 [trace] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2025-05-23 16:58:34.304 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 9473]: successfully created
+2025-05-23 16:58:34.462 [trace] [SharedProcess] IPC ready
+2025-05-23 16:58:34.462 [trace] Main->SharedProcess#connect: connection established
+2025-05-23 16:58:34.473 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.config/Code - OSS/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 16:58:34.473 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/waturrr/.config/Code - OSS/User/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/waturrr/.config/Code - OSS/User/settings.json')
+2025-05-23 16:58:34.473 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/waturrr/.config/Code - OSS/User/settings.json (correlationId: undefined)
+2025-05-23 16:58:34.474 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User'
+2025-05-23 16:58:34.484 [trace] [SharedProcess] Overall ready
+2025-05-23 16:58:34.494 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.vscode-oss/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/waturrr/.vscode-oss/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 16:58:34.495 [trace] [File Watcher (node.js)] Request to stop watching: /home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 16:58:34.495 [trace] [File Watcher (node.js)] stopping file watcher (/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-05-23 16:58:34.495 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.vscode-oss/extensions'
+2025-05-23 16:58:34.496 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.vscode-oss/extensions/extensions.json'
+2025-05-23 16:58:34.635 [trace] [File Watcher (node.js)] Request to stop watching: /home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 16:58:34.635 [trace] [File Watcher (node.js)] stopping file watcher (/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-05-23 16:58:34.640 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-05-23 16:58:34.650 [debug] Terminal profile not validated fish ["fish"]
+2025-05-23 16:58:34.651 [debug] Terminal profile not validated tmux ["tmux"]
+2025-05-23 16:58:34.651 [debug] Terminal profile not validated pwsh ["pwsh"]
+2025-05-23 16:58:36.377 [trace] lifecycle (main): phase changed (value: 4)
+2025-05-23 17:01:13.358 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:13.359 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:13.367 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:13.367 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.367 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:13.368 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.380 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:13.380 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:13.380 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:13.381 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:13.420 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:13.420 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:13.420 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:13.420 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.420 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:13.420 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.426 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:13.426 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:13.426 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:13.426 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:13.442 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.443 [debug] User data changed
+2025-05-23 17:01:13.443 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.527 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.527 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.527 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:13.527 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:13.602 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.602 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:13.602 [debug] User data changed
+2025-05-23 17:01:13.602 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:13.603 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:14.156 [trace] [File Watcher (node.js)] detected /home/waturrr/.config/Code - OSS/User/settings.json exists again, resuming watcher (correlationId: undefined)
+2025-05-23 17:01:14.157 [debug] User data changed
+2025-05-23 17:01:14.157 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:14.157 [trace] [File Watcher (node.js)] stopping fs.watchFile() on /home/waturrr/.config/Code - OSS/User/settings.json (correlationId: undefined)
+2025-05-23 17:01:14.158 [trace] [File Watcher (node.js)] detected /home/waturrr/.config/Code - OSS/User/settings.json exists again, resuming watcher (correlationId: undefined)
+2025-05-23 17:01:14.158 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:14.158 [trace] [File Watcher (node.js)] stopping fs.watchFile() on /home/waturrr/.config/Code - OSS/User/settings.json (correlationId: undefined)
+2025-05-23 17:01:14.159 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 17:01:14.159 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 17:01:14.162 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:01:14.163 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:01:22.735 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:22.735 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:22.735 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:22.735 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:22.735 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:22.735 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.746 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:22.747 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:22.811 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:22.811 [debug] User data changed
+2025-05-23 17:01:22.811 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:22.822 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.823 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.823 [debug] User data changed
+2025-05-23 17:01:22.848 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:22.848 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:22.848 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.848 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.848 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.849 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:01:22.850 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.850 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:01:22.923 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:22.923 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.924 [debug] User data changed
+2025-05-23 17:01:22.924 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:22.924 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.924 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.925 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:22.925 [debug] User data changed
+2025-05-23 17:01:29.222 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:29.222 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:29.222 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:29.222 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:29.222 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:29.222 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:29.237 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:29.238 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:29.297 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:29.297 [debug] User data changed
+2025-05-23 17:01:29.297 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:29.314 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.314 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.314 [debug] User data changed
+2025-05-23 17:01:29.338 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:29.339 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:29.339 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.339 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.339 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.339 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:01:29.339 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.339 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:01:29.414 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:29.414 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.414 [debug] User data changed
+2025-05-23 17:01:29.415 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:29.415 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.415 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.415 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:29.415 [debug] User data changed
+2025-05-23 17:01:32.596 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:32.596 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:32.596 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:32.596 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:32.596 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:01:32.596 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:32.612 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:01:32.672 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:32.672 [debug] User data changed
+2025-05-23 17:01:32.673 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:32.688 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.689 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.689 [debug] User data changed
+2025-05-23 17:01:32.714 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:32.714 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:32.714 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.714 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.714 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.715 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:01:32.715 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.715 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:01:32.789 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:32.789 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.790 [debug] User data changed
+2025-05-23 17:01:32.790 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:01:32.790 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.790 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:01:32.790 [debug] User data changed
+2025-05-23 17:01:32.792 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.728 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:03:03.728 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:03:03.728 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:03:03.728 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:03.728 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:03:03.728 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:03:03.744 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:03:03.803 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:03.804 [debug] User data changed
+2025-05-23 17:03:03.804 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:03.819 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.820 [debug] User data changed
+2025-05-23 17:03:03.820 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.846 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:03.846 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:03.846 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.847 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.847 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.847 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:03:03.847 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.847 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:03:03.921 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:03.922 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.922 [debug] User data changed
+2025-05-23 17:03:03.922 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:03.923 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.924 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:03.924 [debug] User data changed
+2025-05-23 17:03:03.924 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.677 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:03:34.677 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:03:34.678 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:03:34.678 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:34.678 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json.vsctmp
+2025-05-23 17:03:34.678 [trace] [File Watcher (node.js)] [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:34.694 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:03:34.694 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json.vsctmp
+2025-05-23 17:03:34.694 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:03:34.694 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:03:34.694 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:03:34.695 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.695 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:03:34.695 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.695 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:03:34.695 [trace] [File Watcher (node.js)] [raw] ["rename"] settings.json
+2025-05-23 17:03:34.754 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:34.754 [debug] User data changed
+2025-05-23 17:03:34.754 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:34.770 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.771 [debug] User data changed
+2025-05-23 17:03:34.771 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.795 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:34.796 [trace] [File Watcher (node.js)] [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:34.796 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.796 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.796 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.797 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:03:34.797 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.797 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:03:34.871 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:34.871 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.872 [debug] User data changed
+2025-05-23 17:03:34.872 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/waturrr/.config/Code - OSS/User/settings.json.vsctmp
+2025-05-23 17:03:34.872 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.872 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:03:34.872 [debug] User data changed
+2025-05-23 17:03:34.873 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:12.207 [trace] Received data from other instance:  {"_":["/home/waturrr/.config/Code - OSS/User/settings.json"],"diff":false,"merge":false,"add":false,"remove":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"update-extensions":false,"version":false,"verbose":false,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-lcd-text":false,"disable-gpu":false,"disable-chromium-sandbox":false,"sandbox":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"use-inmemory-secretstorage":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"do-not-include-pack-dependencies":false,"trace":false,"trace-memory-infra":false,"preserve-env":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"disable-gpu-sandbox":false,"__enable-file-policy":false,"enable-coi":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"disable-dev-shm-usage":false,"profile-temp":false,"logsPath":"/home/waturrr/.config/Code - OSS/logs/20250523T170512"} {"SHELL":"/usr/bin/bash","WINDOWID":"96241955713472","COLORTERM":"truecolor","HYPRLAND_CMD":"hyprland","WLR_NO_HARDWARE_CURSORS":"1","XDG_BACKEND":"wayland","VDPAU_DRIVER":"nvidia","ILLOGICAL_IMPULSE_VIRTUAL_ENV":"$XDG_STATE_HOME/ags/.venv","LIBVA_DRIVER_NAME":"nvidia","ELECTRON_OZONE_PLATFORM_HINT":"auto","HL_INITIAL_WORKSPACE_TOKEN":"c0f48932-daa7-4193-a5b0-99e64e36b324","XDG_SEAT":"seat0","PWD":"/home/waturrr/.config/Code - OSS/User","LOGNAME":"waturrr","XDG_SESSION_TYPE":"wayland","MOTD_SHOWN":"pam","HOME":"/home/waturrr","LANG":"en_US.UTF-8","_JAVA_AWT_WM_NONREPARENTING":"1","XDG_CURRENT_DESKTOP":"Hyprland","STARSHIP_SHELL":"bash","WAYLAND_DISPLAY":"wayland-1","STARSHIP_SESSION_KEY":"2057816879721987","ALACRITTY_SOCKET":"/run/user/1000/Alacritty-wayland-1-9883.sock","NVD_BACKEND":"direct","XDG_SESSION_CLASS":"user","WINIT_X11_SCALE_FACTOR":"1.0","TERM":"xterm-256color","USER":"waturrr","HYPRLAND_INSTANCE_SIGNATURE":"9958d297641b5c84dcff93f9039d80a5ad37ab00_1747999281_13130594","DISPLAY":":0","SHLVL":"2","MOZ_ENABLE_WAYLAND":"1","XDG_VTNR":"1","XDG_SESSION_ID":"1","XDG_STATE_HOME":"/home/waturrr/.local/state","XDG_RUNTIME_DIR":"/run/user/1000","DEBUGINFOD_URLS":"https://debuginfod.archlinux.org ","XDG_DATA_DIRS":"/home/waturrr/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share","PATH":"/home/waturrr/.local/bin:/home/waturrr/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","__GLX_VENDOR_LIBRARY_NAME":"nvidia","ALACRITTY_LOG":"/tmp/Alacritty-9883.log","GBM_BACKEND":"nvidia-drm","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","MAIL":"/var/spool/mail/waturrr","__NV_PRIME_RENDER_OFFLOAD":"1","ALACRITTY_WINDOW_ID":"96241955713472","OLDPWD":"/home/waturrr","VSCODE_CWD":"/home/waturrr/.config/Code - OSS/User","VSCODE_NLS_CONFIG":"{\"userLocale\":\"en-us\",\"osLocale\":\"en-us\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/usr/lib/code/out/nls.messages.json\",\"locale\":\"en-us\",\"availableLanguages\":{}}","VSCODE_CLI":"1","ELECTRON_NO_ATTACH_CONSOLE":"1","CHROME_DESKTOP":"code-oss.desktop","ORIGINAL_XDG_CURRENT_DESKTOP":"Hyprland","GDK_BACKEND":"wayland","NO_AT_BRIDGE":"1","VSCODE_CODE_CACHE_PATH":"/home/waturrr/.config/Code - OSS/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e","VSCODE_IPC_HOOK":"/run/user/1000/vscode-1922ffb7-1.10-main.sock"}
+2025-05-23 17:05:12.207 [trace] windowsManager#open
+2025-05-23 17:05:12.207 [trace] windowsManager#open pathsToOpen [{"fileUri":{"$mid":1,"path":"/home/waturrr/.config/Code - OSS/User/settings.json","scheme":"file"},"type":1,"exists":true,"options":{}}]
+2025-05-23 17:05:12.208 [trace] windowsManager#doOpenFilesInExistingWindow {"filesToOpen":{"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/waturrr/.config/Code - OSS/User/settings.json","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}}
+2025-05-23 17:05:12.208 [trace] windowsManager#open used window count 1 (workspacesToOpen: 0, foldersToOpen: 0, emptyToRestore: 0, maybeOpenEmptyWindow: false)
+2025-05-23 17:05:37.964 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:37.964 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:37.964 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:37.964 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:37.965 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:37.965 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:37.965 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:37.965 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:37.965 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:37.966 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:37.966 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:37.966 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:37.966 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:37.966 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:37.966 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:37.966 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:38.040 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:38.040 [debug] User data changed
+2025-05-23 17:05:38.041 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:38.041 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:38.041 [debug] User data changed
+2025-05-23 17:05:38.042 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.069 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:40.069 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.069 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:40.069 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.069 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:40.069 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.069 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:40.069 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.070 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:40.070 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.070 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:40.070 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.070 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:40.070 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.070 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:40.070 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.144 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.144 [debug] User data changed
+2025-05-23 17:05:40.145 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.145 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:40.145 [debug] User data changed
+2025-05-23 17:05:40.145 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.489 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:44.489 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.489 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:44.489 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.489 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:44.489 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.489 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:44.489 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.490 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:44.490 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.490 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:44.490 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.490 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:44.490 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.491 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:44.491 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.564 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.565 [debug] User data changed
+2025-05-23 17:05:44.566 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.566 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:44.567 [debug] User data changed
+2025-05-23 17:05:44.567 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.196 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.196 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.196 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.196 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.196 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.196 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.196 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.196 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.197 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.197 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.197 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.197 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.197 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.197 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.197 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.197 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.272 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.272 [debug] User data changed
+2025-05-23 17:05:46.272 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.272 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.272 [debug] User data changed
+2025-05-23 17:05:46.273 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.858 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.858 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.858 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.859 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.859 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.859 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.859 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.859 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.859 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.859 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.859 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.860 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.860 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.860 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.860 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:46.860 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.934 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.934 [debug] User data changed
+2025-05-23 17:05:46.935 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.935 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:46.935 [debug] User data changed
+2025-05-23 17:05:46.935 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.309 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.309 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.309 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.309 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.309 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.310 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.310 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.310 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.311 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.311 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.311 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.312 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.312 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.312 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.312 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.312 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.384 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.385 [debug] User data changed
+2025-05-23 17:05:47.385 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.387 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.387 [debug] User data changed
+2025-05-23 17:05:47.387 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.533 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.533 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.533 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.533 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.533 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.533 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.533 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.534 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.535 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.535 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.535 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.535 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.535 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.535 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.535 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.535 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.608 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.609 [debug] User data changed
+2025-05-23 17:05:47.609 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.610 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.610 [debug] User data changed
+2025-05-23 17:05:47.611 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.709 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.709 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.709 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.709 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.709 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.709 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.709 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.709 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.711 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.711 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.711 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.711 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.712 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.712 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.712 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.712 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.784 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.785 [debug] User data changed
+2025-05-23 17:05:47.785 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.785 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.786 [debug] User data changed
+2025-05-23 17:05:47.786 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.895 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.895 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.895 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.895 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.895 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.895 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.895 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.895 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.896 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.896 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.896 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.896 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.896 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.896 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.896 [trace] [File Watcher (node.js)] [raw] ["change"] settings.json
+2025-05-23 17:05:47.896 [trace] [File Watcher (node.js)] [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.971 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.971 [debug] User data changed
+2025-05-23 17:05:47.971 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.972 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:47.972 [debug] User data changed
+2025-05-23 17:05:47.972 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/waturrr/.config/Code - OSS/User/settings.json
+2025-05-23 17:05:51.528 [trace] Lifecycle#unload() - window ID 1
+2025-05-23 17:05:51.542 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 9473]: received exit event with code 0
+2025-05-23 17:05:51.542 [info] Extension host with pid 9473 exited with code: 0, signal: unknown.
+2025-05-23 17:05:51.567 [trace] window#load: attempt to load window (id: 1)
+2025-05-23 17:05:51.568 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 9445]: attempting to kill the process...
+2025-05-23 17:05:51.568 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 9445]: successfully killed the process
+2025-05-23 17:05:51.573 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 9445]: received exit event with code 0
+2025-05-23 17:05:51.573 [trace] [UtilityProcessWorker]: terminated normally with code 0, signal: unknown
+2025-05-23 17:05:51.573 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 9445]: crashed with code 15 and reason 'killed'
+2025-05-23 17:05:51.587 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-05-23 17:05:51.837 [trace] window#load: window reported ready (id: 1)
+2025-05-23 17:05:51.880 [trace] [SharedProcess] onWindowConnection for: vscode:createSharedProcessChannelConnectionResult
+2025-05-23 17:05:51.880 [trace] [UtilityProcessWorker]: createWorker(window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2025-05-23 17:05:51.881 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2025-05-23 17:05:51.884 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 10266]: successfully created
+2025-05-23 17:05:51.903 [trace] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2025-05-23 17:05:51.908 [trace] [UtilityProcess id: 2, type: extensionHost, pid: 10267]: successfully created
+2025-05-23 17:05:52.043 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-05-23 17:05:52.049 [debug] Terminal profile not validated fish ["fish"]
+2025-05-23 17:05:52.050 [debug] Terminal profile not validated tmux ["tmux"]
+2025-05-23 17:05:52.050 [debug] Terminal profile not validated pwsh ["pwsh"]
+2025-05-23 17:06:00.112 [trace] Lifecycle#window.on('close') - window ID 1
+2025-05-23 17:06:00.112 [trace] Lifecycle#unload() - window ID 1
+2025-05-23 17:06:00.126 [trace] [UtilityProcess type: ptyHost, pid: <none>]: creating new...
+2025-05-23 17:06:00.132 [trace] PtyHostService#_startPtyHost 
+    at Iu.U (file:///usr/lib/code/out/main.js:93:3012)
+    at Iu.h (file:///usr/lib/code/out/main.js:93:1515)
+    at get f (file:///usr/lib/code/out/main.js:93:1465)
+    at Iu.setTerminalLayoutInfo (file:///usr/lib/code/out/main.js:93:5853)
+    at Object.call (file:///usr/lib/code/out/main.js:33:4564)
+    at Af.s (file:///usr/lib/code/out/main.js:31:20114)
+    at Af.q (file:///usr/lib/code/out/main.js:31:19637)
+    at Zo.value (file:///usr/lib/code/out/main.js:31:19039)
+    at A.B (file:///usr/lib/code/out/main.js:30:2373)
+    at A.C (file:///usr/lib/code/out/main.js:30:2443)
+    at A.fire (file:///usr/lib/code/out/main.js:30:2660)
+    at Zo.value (file:///usr/lib/code/out/main.js:28:4827)
+    at A.B (file:///usr/lib/code/out/main.js:30:2373)
+    at A.fire (file:///usr/lib/code/out/main.js:30:2591)
+    at Zo.value (file:///usr/lib/code/out/main.js:28:5015)
+    at A.B (file:///usr/lib/code/out/main.js:30:2373)
+    at A.fire (file:///usr/lib/code/out/main.js:30:2591)
+    at j (file:///usr/lib/code/out/main.js:28:7302)
+    at IpcMainImpl.i (file:///usr/lib/code/out/main.js:33:21024)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-05-23 17:06:00.135 [trace] [UtilityProcess type: ptyHost, pid: 10312]: successfully created
+2025-05-23 17:06:00.136 [trace] [UtilityProcess id: 2, type: extensionHost, pid: 10267]: received exit event with code 0
+2025-05-23 17:06:00.136 [info] Extension host with pid 10267 exited with code: 0, signal: unknown.
+2025-05-23 17:06:00.142 [trace] Lifecycle#onBeforeCloseWindow.fire() - window ID 1
+2025-05-23 17:06:00.144 [trace] IPC Object URL: Removed channel vscode:ab87588c-be7c-4ba3-9a01-af016252e470.
+2025-05-23 17:06:00.145 [trace] Lifecycle#window.on('closed') - window ID 1
+2025-05-23 17:06:00.145 [trace] Lifecycle#onWillShutdown.fire()
+2025-05-23 17:06:00.146 [trace] Lifecycle#onWillShutdown - begin 'instanceLockfile'
+2025-05-23 17:06:00.146 [trace] storageMainService#onWillShutdown()
+2025-05-23 17:06:00.146 [trace] Lifecycle#onWillShutdown - begin 'applicationStorage'
+2025-05-23 17:06:00.146 [trace] Lifecycle#onWillShutdown - begin 'workspaceStorage'
+2025-05-23 17:06:00.146 [trace] Lifecycle#onWillShutdown - begin 'extHostStarter'
+2025-05-23 17:06:00.146 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 10266]: attempting to kill the process...
+2025-05-23 17:06:00.146 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 10266]: successfully killed the process
+2025-05-23 17:06:00.146 [trace] Lifecycle#onWillShutdown - end 'extHostStarter'
+2025-05-23 17:06:00.146 [trace] Lifecycle#app.on(window-all-closed)
+2025-05-23 17:06:00.147 [trace] Lifecycle#app.on(before-quit)
+2025-05-23 17:06:00.147 [trace] Lifecycle#onBeforeShutdown.fire()
+2025-05-23 17:06:00.147 [trace] [WindowsStateHandler] onBeforeShutdown {"lastActiveWindow":{"backupPath":"/home/waturrr/.config/Code - OSS/Backups/1747999463143","uiState":{"mode":0,"x":0,"y":0,"width":960,"height":516}},"openedWindows":[]}
+2025-05-23 17:06:00.147 [trace] Lifecycle#app.on(will-quit) - begin
+2025-05-23 17:06:00.148 [trace] Lifecycle#onWillShutdown - end 'instanceLockfile'
+2025-05-23 17:06:00.149 [trace] [File Watcher (node.js)] Request to stop watching: /home/waturrr/.config/Code - OSS/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 17:06:00.149 [trace] [File Watcher (node.js)] stopping file watcher (/home/waturrr/.config/Code - OSS/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-05-23 17:06:00.149 [trace] [File Watcher (node.js)] stopping file watcher (/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-05-23 17:06:00.150 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 10266]: received exit event with code 0
+2025-05-23 17:06:00.150 [trace] [UtilityProcessWorker]: terminated normally with code 0, signal: unknown
+2025-05-23 17:06:00.151 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 10266]: crashed with code 15 and reason 'killed'
+2025-05-23 17:06:00.167 [trace] StorageMainService: closed application storage
+2025-05-23 17:06:00.167 [trace] Lifecycle#onWillShutdown - end 'applicationStorage'
+2025-05-23 17:06:00.167 [trace] StorageMainService: closed workspace storage (1747999463143)
+2025-05-23 17:06:00.167 [trace] Lifecycle#onWillShutdown - end 'workspaceStorage'
+2025-05-23 17:06:00.168 [trace] Lifecycle#app.on(will-quit) - after fireOnWillShutdown
+2025-05-23 17:06:00.169 [trace] Lifecycle#app.on(will-quit) - calling app.quit()
+2025-05-23 17:06:00.169 [trace] [UtilityProcess type: ptyHost, pid: 10312]: received exit event with code 0

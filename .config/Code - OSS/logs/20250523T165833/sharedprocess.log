@@ -1,0 +1,120 @@
+2025-05-23 16:58:34.485 [trace] sharedProcess configuration {"machineId":"6a6b928f3957c258e84d54932a79f1d7f3798ddd111d0b931a102f6afa926e7f","sqmId":"","devDeviceId":"7f04e124-8947-4f27-92db-493ac2082cbc","codeCachePath":"/home/waturrr/.config/Code - OSS/CachedData/848b80aeb52026648a8ff9f7c45a9b0a80641e2e","profiles":{"home":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.config/Code - OSS/User/profiles","query":"","fragment":"","_formatted":null,"_fsPath":null},"all":[{"id":"__default__profile__","name":"Default","location":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.config/Code - OSS/User","query":"","fragment":"","_formatted":null,"_fsPath":null},"isDefault":true,"globalStorageHome":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.config/Code - OSS/User/globalStorage","query":"","fragment":"","_formatted":null,"_fsPath":null},"settingsResource":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.config/Code - OSS/User/settings.json","query":"","fragment":"","_formatted":null,"_fsPath":null},"keybindingsResource":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.config/Code - OSS/User/keybindings.json","query":"","fragment":"","_formatted":null,"_fsPath":null},"tasksResource":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.config/Code - OSS/User/tasks.json","query":"","fragment":"","_formatted":null,"_fsPath":null},"snippetsHome":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.config/Code - OSS/User/snippets","query":"","fragment":"","_formatted":null,"_fsPath":null},"promptsHome":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.config/Code - OSS/User/prompts","query":"","fragment":"","_formatted":null,"_fsPath":null},"extensionsResource":{"scheme":"vscode-userdata","authority":"","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","query":"","fragment":"","_formatted":null,"_fsPath":null},"cacheHome":{"scheme":"file","authority":"","path":"/home/waturrr/.config/Code - OSS/CachedProfilesData/__default__profile__","query":"","fragment":"","_formatted":null,"_fsPath":null}}]},"args":{"_":[],"diff":false,"merge":false,"add":false,"remove":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"update-extensions":false,"version":false,"verbose":true,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-lcd-text":false,"disable-gpu":false,"disable-chromium-sandbox":false,"sandbox":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"use-inmemory-secretstorage":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"do-not-include-pack-dependencies":false,"trace":false,"trace-memory-infra":false,"preserve-env":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"disable-gpu-sandbox":false,"__enable-file-policy":false,"enable-coi":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"disable-dev-shm-usage":false,"profile-temp":false,"logsPath":"/home/waturrr/.config/Code - OSS/logs/20250523T165833"},"logLevel":1,"loggers":[{"resource":{"scheme":"file","authority":"","path":"/home/waturrr/.config/Code - OSS/logs/20250523T165833/main.log","query":"","fragment":"","_formatted":"file:///home/waturrr/.config/Code%20-%20OSS/logs/20250523T165833/main.log","_fsPath":"/home/waturrr/.config/Code - OSS/logs/20250523T165833/main.log"},"id":"main","name":"Main"}]}
+2025-05-23 16:58:34.485 [trace] Started scanning system extensions
+2025-05-23 16:58:34.485 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 16:58:34.485 [trace] ExtensionManagementService#cleanUp
+2025-05-23 16:58:34.485 [trace] ExtensionManagementService#removeTempDeleteFolders
+2025-05-23 16:58:34.485 [trace] ExtensionManagementService.updateControlCache
+2025-05-23 16:58:34.485 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 16:58:34.490 [trace] Extension VSIX downloads cache dir does not exist
+2025-05-23 16:58:34.500 [debug] Writing language packs {}
+2025-05-23 16:58:34.500 [debug] No extensions are marked as removed.
+2025-05-23 16:58:34.503 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.vscode-oss/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 16:58:34.514 [info] ComputeTargetPlatform: linux-x64
+2025-05-23 16:58:34.514 [trace] Scanned user extensions: 0
+2025-05-23 16:58:34.514 [trace] Scanned user extensions: 0
+2025-05-23 16:58:34.521 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.vscode-oss/extensions'
+2025-05-23 16:58:34.551 [trace] Scanned system extensions: 91
+2025-05-23 16:58:34.589 [debug] Writing language packs {}
+2025-05-23 16:58:37.481 [trace] Started scanning system extensions
+2025-05-23 16:58:37.481 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 16:58:37.484 [trace] Scanned user extensions: 0
+2025-05-23 16:58:37.488 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 16:58:37.488 [trace] Scanned system extensions: 91
+2025-05-23 16:58:44.485 [trace] [logs cleanup]: Starting to clean up old logs.
+2025-05-23 16:58:44.486 [trace] [logs cleanup]: Removing log folders '20250523T164705'
+2025-05-23 16:58:54.786 [trace] Started scanning system extensions
+2025-05-23 16:58:54.786 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 16:58:54.794 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 16:58:54.794 [trace] Scanned system extensions: 91
+2025-05-23 16:58:54.794 [trace] Scanned user extensions: 0
+2025-05-23 16:59:04.458 [trace] Started scanning system extensions
+2025-05-23 16:59:04.458 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 16:59:04.460 [trace] Scanned user extensions: 0
+2025-05-23 16:59:04.466 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 16:59:04.467 [trace] Scanned system extensions: 91
+2025-05-23 16:59:04.480 [trace] [code cache cleanup]: Starting to clean up old code cache folders.
+2025-05-23 16:59:04.481 [trace] [storage cleanup]: Starting to clean up workspace storage folders for unused empty workspaces.
+2025-05-23 16:59:14.483 [trace] [language pack cache cleanup]: Starting to clean up unused language packs.
+2025-05-23 17:00:51.945 [trace] Started scanning system extensions
+2025-05-23 17:00:51.945 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:00:51.964 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 17:00:51.965 [trace] Scanned system extensions: 91
+2025-05-23 17:00:51.965 [trace] Scanned user extensions: 0
+2025-05-23 17:00:52.020 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:00:52.021 [trace] Scanned user extensions: 0
+2025-05-23 17:01:13.445 [debug] User data changed
+2025-05-23 17:01:13.603 [debug] User data changed
+2025-05-23 17:01:14.160 [debug] User data changed
+2025-05-23 17:01:22.814 [debug] User data changed
+2025-05-23 17:01:22.824 [debug] User data changed
+2025-05-23 17:01:22.926 [debug] User data changed
+2025-05-23 17:01:22.927 [debug] User data changed
+2025-05-23 17:01:29.298 [debug] User data changed
+2025-05-23 17:01:29.316 [debug] User data changed
+2025-05-23 17:01:29.417 [debug] User data changed
+2025-05-23 17:01:29.418 [debug] User data changed
+2025-05-23 17:01:32.674 [debug] User data changed
+2025-05-23 17:01:32.690 [debug] User data changed
+2025-05-23 17:01:32.790 [debug] User data changed
+2025-05-23 17:01:32.793 [debug] User data changed
+2025-05-23 17:01:43.207 [trace] Started scanning system extensions
+2025-05-23 17:01:43.207 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:01:43.210 [trace] Scanned user extensions: 0
+2025-05-23 17:01:43.214 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 17:01:43.215 [trace] Scanned system extensions: 91
+2025-05-23 17:02:56.662 [trace] Started scanning system extensions
+2025-05-23 17:02:56.662 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:02:56.672 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 17:02:56.673 [trace] Scanned system extensions: 91
+2025-05-23 17:02:56.673 [trace] Scanned user extensions: 0
+2025-05-23 17:03:03.807 [debug] User data changed
+2025-05-23 17:03:03.822 [debug] User data changed
+2025-05-23 17:03:03.925 [debug] User data changed
+2025-05-23 17:03:03.926 [debug] User data changed
+2025-05-23 17:03:34.600 [trace] ExtensionManagementService.updateControlCache
+2025-05-23 17:03:34.756 [debug] User data changed
+2025-05-23 17:03:34.774 [debug] User data changed
+2025-05-23 17:03:34.874 [debug] User data changed
+2025-05-23 17:03:34.875 [debug] User data changed
+2025-05-23 17:03:43.407 [trace] Started scanning system extensions
+2025-05-23 17:03:43.407 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:03:43.410 [trace] Scanned user extensions: 0
+2025-05-23 17:03:43.416 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 17:03:43.416 [trace] Scanned system extensions: 91
+2025-05-23 17:04:02.949 [trace] Started scanning system extensions
+2025-05-23 17:04:02.949 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:04:02.952 [trace] Scanned user extensions: 0
+2025-05-23 17:04:02.958 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 17:04:02.959 [trace] Scanned system extensions: 91
+2025-05-23 17:04:29.685 [trace] Started scanning system extensions
+2025-05-23 17:04:29.685 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:04:29.687 [trace] Scanned user extensions: 0
+2025-05-23 17:04:29.693 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 17:04:29.693 [trace] Scanned system extensions: 91
+2025-05-23 17:05:38.043 [debug] User data changed
+2025-05-23 17:05:38.044 [debug] User data changed
+2025-05-23 17:05:40.147 [debug] User data changed
+2025-05-23 17:05:40.147 [debug] User data changed
+2025-05-23 17:05:44.569 [debug] User data changed
+2025-05-23 17:05:44.570 [debug] User data changed
+2025-05-23 17:05:46.274 [debug] User data changed
+2025-05-23 17:05:46.275 [debug] User data changed
+2025-05-23 17:05:46.936 [debug] User data changed
+2025-05-23 17:05:46.938 [debug] User data changed
+2025-05-23 17:05:47.388 [debug] User data changed
+2025-05-23 17:05:47.390 [debug] User data changed
+2025-05-23 17:05:47.612 [debug] User data changed
+2025-05-23 17:05:47.614 [debug] User data changed
+2025-05-23 17:05:47.787 [debug] User data changed
+2025-05-23 17:05:47.788 [debug] User data changed
+2025-05-23 17:05:47.974 [debug] User data changed
+2025-05-23 17:05:47.974 [debug] User data changed
+2025-05-23 17:05:51.911 [trace] Started scanning system extensions
+2025-05-23 17:05:51.912 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:05:51.914 [trace] Scanned user extensions: 0
+2025-05-23 17:05:51.925 [debug] Using cached extensions scan result system file:///usr/lib/code/extensions
+2025-05-23 17:05:51.925 [trace] Scanned system extensions: 91
+2025-05-23 17:05:52.281 [trace] Started scanning system extensions
+2025-05-23 17:05:52.281 [trace] Started scanning user extensions {"$mid":1,"external":"vscode-userdata:/home/waturrr/.vscode-oss/extensions/extensions.json","path":"/home/waturrr/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}
+2025-05-23 17:05:52.283 [trace] Scanned user extensions: 0
+2025-05-23 17:05:52.322 [trace] Scanned system extensions: 91

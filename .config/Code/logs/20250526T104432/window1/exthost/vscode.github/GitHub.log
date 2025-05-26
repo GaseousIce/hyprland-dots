@@ -1,0 +1,5 @@
+2025-05-26 10:44:34.982 [info] Log level: Info
+2025-05-26 10:46:07.846 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for GaseousIce/hyprland-dots/d8452837537c6f496e2b5a3e4050a6af411ab339: TypeError: Cannot read properties of null (reading 'author')
+2025-05-26 10:46:44.247 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for GaseousIce/hyprland-dots/a3f258a0b325c367f2580b554a1d14a93aa34106: TypeError: Cannot read properties of null (reading 'author')
+2025-05-26 10:47:19.631 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for GaseousIce/hyprland-dots/b96841a565446e052d18a2300d9f0eea5679045d: TypeError: Cannot read properties of null (reading 'author')
+2025-05-26 10:47:45.988 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for GaseousIce/hyprland-dots/b96841a565446e052d18a2300d9f0eea5679045d: TypeError: Cannot read properties of null (reading 'author')

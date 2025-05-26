@@ -1,0 +1,4 @@
+2025-05-23 16:57:53.075 [info] update#setState disabled
+2025-05-23 16:57:53.075 [info] update#ctor - updates are disabled as there is no update URL
+2025-05-23 16:58:21.086 [info] Extension host with pid 9007 exited with code: 0, signal: unknown.
+2025-05-23 16:58:23.320 [error] Extension host with pid 9007 still exists, forcefully killing it...

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Fail fast if anything goes wrong
+set -e
+
+# Get full path in case script is called with a relative one
+WALL="$1"
+
+# Check if a file was provided
+if [ -z "$WALL" ]; then
+    echo "Usage: walset-backend /path/to/image"
+    exit 1
+fi
+
+# Set the wallpaper using swww
+# swww img "$WALL" --transition-fps 144 --transition-step 255 --transition-type center --transition-duration 0.5
+
+# Generate color scheme with pywal
+wal -i "$WALL"
+
+# Generate color scheme with matugen
+# matugen image "$WALL" -m dark
+# matugen image "$WALL" -m "dark" -t scheme-rainbow --contrast 0
+
+# Generate color scheme for Telegram
+walogram

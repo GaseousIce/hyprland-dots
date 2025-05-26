@@ -1,0 +1,39 @@
+2025-05-26 09:59:38.220 [info] (Client) Pylance async client (2025.5.1) started with python extension (2025.6.1)
+2025-05-26 09:59:38.946 [info] [Info  - 9:59:38 AM] (76118) Server root directory: file:///home/waturrr/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-26 09:59:38.946 [info] [Info  - 9:59:38 AM] (76118) Pylance language server 2025.5.1 (pyright version 1.1.400, commit b962ffc2) starting
+2025-05-26 09:59:38.954 [info] [Info  - 9:59:38 AM] (76118) Starting service instance ".config" for workspace "/home/waturrr/.config"
+2025-05-26 09:59:39.047 [info] [Info  - 9:59:39 AM] (76118) Setting environmentName for service ".config": "3.13.3 (global)"
+2025-05-26 09:59:39.047 [info] [Info  - 9:59:39 AM] (76118) Setting pythonPath for service ".config": "/bin/python"
+2025-05-26 09:59:39.047 [info] [Info  - 9:59:39 AM] (76118) No include entries specified; assuming /home/waturrr/.config
+2025-05-26 09:59:39.047 [info] [Info  - 9:59:39 AM] (76118) Auto-excluding **/node_modules
+2025-05-26 09:59:39.047 [info] [Info  - 9:59:39 AM] (76118) Auto-excluding **/__pycache__
+2025-05-26 09:59:39.047 [info] [Info  - 9:59:39 AM] (76118) Auto-excluding **/.*
+2025-05-26 09:59:39.067 [info] [Info  - 9:59:39 AM] (76118) Assuming Python version 3.13.3.final.0
+2025-05-26 09:59:39.236 [info] [Info  - 9:59:39 AM] (76118) Found 1 source file
+2025-05-26 09:59:39.251 [info] [Info  - 9:59:39 AM] (76118) Setting environmentName for service ".config": "3.13.3 (global)"
+2025-05-26 09:59:39.251 [info] [Info  - 9:59:39 AM] (76118) Setting pythonPath for service ".config": "/bin/python"
+2025-05-26 09:59:39.251 [info] [Info  - 9:59:39 AM] (76118) No include entries specified; assuming /home/waturrr/.config
+2025-05-26 09:59:39.251 [info] [Info  - 9:59:39 AM] (76118) Auto-excluding **/node_modules
+2025-05-26 09:59:39.252 [info] [Info  - 9:59:39 AM] (76118) Auto-excluding **/__pycache__
+2025-05-26 09:59:39.252 [info] [Info  - 9:59:39 AM] (76118) Auto-excluding **/.*
+2025-05-26 09:59:39.275 [info] [Info  - 9:59:39 AM] (76118) Assuming Python version 3.13.3.final.0
+2025-05-26 09:59:39.383 [info] [Info  - 9:59:39 AM] (76118) Found 1 source file
+2025-05-26 09:59:39.609 [info] [Info  - 9:59:39 AM] (76118) BG: Priority queue background worker(2) root directory: file:///home/waturrr/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-26 09:59:39.610 [info] [Info  - 9:59:39 AM] (76118) BG: Priority queue background worker(2) started
+2025-05-26 09:59:39.885 [info] [Info  - 9:59:39 AM] (76118) BG: Indexer background runner(3) root directory: file:///home/waturrr/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist (index)
+2025-05-26 09:59:39.886 [info] [Info  - 9:59:39 AM] (76118) BG: Indexing(3) started
+2025-05-26 09:59:40.157 [info] [Info  - 9:59:40 AM] (76118) BG: scanned(3) 44 files over 1 exec env
+2025-05-26 09:59:40.309 [info] [Info  - 9:59:40 AM] (76118) BG: indexed(3) 44 files over 1 exec env
+2025-05-26 09:59:40.319 [info] [Info  - 9:59:40 AM] (76118) BG: Indexing finished(3).
+2025-05-26 09:59:43.180 [info] [Info  - 9:59:43 AM] (76118) Starting service instance "<default>" for workspace ""
+2025-05-26 09:59:43.199 [info] [Info  - 9:59:43 AM] (76118) Setting environmentName for service "<default>": "3.13.3 (global)"
+2025-05-26 09:59:43.199 [info] [Info  - 9:59:43 AM] (76118) Setting pythonPath for service "<default>": "/bin/python"
+2025-05-26 09:59:43.199 [info] [Info  - 9:59:43 AM] (76118) No include entries specified; assuming /<default workspace root>
+2025-05-26 09:59:43.199 [info] [Info  - 9:59:43 AM] (76118) Auto-excluding **/node_modules
+2025-05-26 09:59:43.199 [info] [Info  - 9:59:43 AM] (76118) Auto-excluding **/__pycache__
+2025-05-26 09:59:43.199 [info] [Info  - 9:59:43 AM] (76118) Auto-excluding **/.*
+2025-05-26 09:59:43.217 [info] [Info  - 9:59:43 AM] (76118) Assuming Python version 3.13.3.final.0
+2025-05-26 09:59:43.249 [info] [Error - 9:59:43 AM] (76118) File or directory "/<default workspace root>" does not exist.
+2025-05-26 09:59:43.249 [info] [Info  - 9:59:43 AM] (76118) No source files found.
+2025-05-26 09:59:43.678 [info] [Info  - 9:59:43 AM] (76118) BG: Priority queue background worker(5) root directory: file:///home/waturrr/.vscode/extensions/ms-python.vscode-pylance-2025.5.1/dist
+2025-05-26 09:59:43.679 [info] [Info  - 9:59:43 AM] (76118) BG: Priority queue background worker(5) started

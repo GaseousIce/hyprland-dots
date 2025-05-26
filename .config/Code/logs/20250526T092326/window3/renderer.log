@@ -1,0 +1,7 @@
+2025-05-26 10:27:35.125 [info] Started local extension host with pid 79513.
+2025-05-26 10:27:35.321 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 10:27:35.768 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-26 10:27:37.714 [info] [perf] Render performance baseline is 13ms
+2025-05-26 10:32:44.759 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-26 10:34:05.427 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-05-26 10:34:07.261 [error] An unknown error occurred. Please consult the log for more details.

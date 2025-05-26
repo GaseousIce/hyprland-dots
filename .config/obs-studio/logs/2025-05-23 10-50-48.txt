@@ -1,0 +1,46 @@
+10:50:48.210: Platform: Wayland
+10:50:48.210: CPU Name: 12th Gen Intel(R) Core(TM) i7-12650H
+10:50:48.210: CPU Speed: 399.926MHz
+10:50:48.210: Physical Cores: 10, Logical Cores: 16
+10:50:48.210: Physical Memory: 15649MB Total, 5387MB Free
+10:50:48.210: Kernel Version: Linux 6.14.6-arch1-1
+10:50:48.210: Distribution: "Arch Linux" Unknown
+10:50:48.210: Desktop Environment: Hyprland
+10:50:48.210: Session Type: wayland
+10:50:48.211: Qt Version: 6.9.0 (runtime), 6.9.0 (compiled)
+10:50:48.211: Portable mode: false
+10:50:48.229: OBS 31.0.3 (linux)
+10:50:48.229: ---------------------------------
+10:50:48.230: ---------------------------------
+10:50:48.230: audio settings reset:
+10:50:48.230: 	samples per sec: 48000
+10:50:48.230: 	speakers:        2
+10:50:48.230: 	max buffering:   960 milliseconds
+10:50:48.230: 	buffering type:  dynamically increasing
+10:50:48.231: ---------------------------------
+10:50:48.231: Initializing OpenGL...
+10:50:48.231: Using EGL/Wayland
+10:50:48.260: Initialized EGL 1.5
+10:50:48.269: Loading up OpenGL on adapter Intel Mesa Intel(R) Graphics (ADL GT2)
+10:50:48.269: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.1.1-arch1.1, shading language 4.60
+10:50:48.293: ---------------------------------
+10:50:48.293: video settings reset:
+10:50:48.293: 	base resolution:   1920x1080
+10:50:48.293: 	output resolution: 1920x1080
+10:50:48.293: 	downscale filter:  Bicubic
+10:50:48.293: 	fps:               60/1
+10:50:48.293: 	format:            NV12
+10:50:48.293: 	YUV mode:          Rec. 709/Partial
+10:50:48.293: NV12 texture support enabled
+10:50:48.293: P010 texture support not available
+10:50:48.300: Audio monitoring device:
+10:50:48.300: 	name: Default
+10:50:48.300: 	id: default
+10:50:48.300: ---------------------------------
+10:50:48.305: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:50:48.311: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+10:50:48.317: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:50:48.317: Failed to initialize module 'decklink.so'
+10:50:48.419: [pipewire] No capture sources available
+10:50:48.446: v4l2loopback not installed, virtual camera not registered
+10:50:48.484: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly

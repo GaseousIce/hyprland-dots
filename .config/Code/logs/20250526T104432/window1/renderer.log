@@ -1,0 +1,68 @@
+2025-05-26 10:44:34.072 [info] Started local extension host with pid 83711.
+2025-05-26 10:44:34.086 [info] ComputeTargetPlatform: linux-x64
+2025-05-26 10:44:34.104 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-26 10:44:34.497 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-26 10:44:36.642 [info] [perf] Render performance baseline is 13ms
+2025-05-26 10:44:49.691 [error] Error: The editor could not be opened because the file was not found.
+    at wSe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async wSe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async JHe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async JHe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async JHe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:797:23342
+    at async Wne.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:839:37089)
+2025-05-26 10:44:54.390 [error] Error: The editor could not be opened because the file was not found.
+    at wSe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async wSe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async JHe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async JHe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async JHe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:797:23342
+    at async Wne.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:839:37089)
+2025-05-26 10:45:57.418 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-26 10:46:57.609 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at Kpt.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:9493)
+    at async Kpt.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:9120)
+    at async Lwe.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:12310)
+    at async Lwe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:10785)
+    at async zpt.W (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:5991)
+    at async EKe.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:21263)
+    at async xCt.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3125)
+    at async IKe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:22819)
+    at async Promise.all (index 1)
+    at async kSt.c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1288:21484)
+2025-05-26 10:46:57.613 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at Kpt.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:9493)
+    at async Kpt.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:9120)
+    at async Lwe.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:12310)
+    at async Lwe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:10785)
+    at async zpt.W (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:5991)
+    at async EKe.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:21263)
+    at async xCt.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3125)
+    at async IKe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:22819)
+    at async Promise.all (index 0)
+    at async kSt.c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1288:21484)
+2025-05-26 10:47:10.882 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at Kpt.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:9493)
+    at async Kpt.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:9120)
+    at async Lwe.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:12310)
+    at async Lwe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:10785)
+    at async zpt.W (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:5991)
+    at async EKe.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:21263)
+    at async xCt.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3125)
+    at async IKe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:22819)
+    at async Promise.all (index 0)
+    at async kSt.c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1288:21484)
+2025-05-26 10:47:10.884 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at Kpt.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:9493)
+    at async Kpt.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:9120)
+    at async Lwe.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:12310)
+    at async Lwe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:10785)
+    at async zpt.W (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3236:5991)
+    at async EKe.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:21263)
+    at async xCt.acquire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3125)
+    at async IKe.createModelReference (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1825:22819)
+    at async Promise.all (index 1)
+    at async kSt.c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1288:21484)
+2025-05-26 10:48:20.511 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-05-26 10:48:23.195 [error] An unknown error occurred. Please consult the log for more details.

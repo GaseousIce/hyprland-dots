@@ -1,0 +1,91 @@
+/* @import url("/home/waturrr/.cache/wal/colors-waybar.css"); */
+@import url("/home/waturrr/.config/waybar/colors.css");
+
+* {
+  font-family: "Radio Canada Big", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+window#waybar {
+  background-color: transparent;
+  color: @on_background; /* Changed from @background to @on_background for visibility */
+}
+
+#workspaces {
+  background-color: @surface_container_low; /* Use a slightly different background */
+  padding: 0 5.6px 0 5.6px;
+  margin: 5px 0 5px 0; /* Add some vertical margin */
+  border-radius: 8px; /* Optional: Add rounded corners */
+}
+
+#workspaces button {
+  color: @on_surface_variant;
+  background-color: transparent;
+  border: none;
+  padding: 0 10px;
+}
+
+#workspaces button.active {
+  color: @primary; /* Use primary color for active workspace */
+  font-weight: bold;
+}
+
+#workspaces button:hover {
+  background-color: @surface_container;
+  color: @on_surface;
+}
+
+.modules-left {
+  margin-left: 12px;
+}
+
+.modules-right {
+  margin-right: 12px;
+}
+
+/* Default Module Style */
+#battery,
+#pulseaudio,
+#backlight,
+#custom-weather,
+#network,
+#clock,
+#custom-media {
+  background-color: @surface_container_low; /* Use a consistent background */
+  margin: 5px 3px 5px 3px; /* Add vertical margin and small horizontal spacing */
+  padding: 0 15px 0 15px; /* top, right, bottom, left */
+  border-radius: 8px; /* Optional: Add rounded corners */
+}
+
+/* Specific Module Colors */
+#clock {
+  color: @tertiary;
+}
+
+#network {
+  color: @primary; /* Using primary color */
+}
+
+#pulseaudio {
+  color: @secondary;
+}
+
+#backlight {
+  color: @secondary_container; /* Using a container color */
+}
+
+#battery {
+  color: @primary_container; /* Using another container color */
+}
+
+#custom-weather {
+  color: @primary; /* Using primary color */
+}
+
+#custom-media {
+  color: @secondary; /* Using secondary color */
+  /* Adjust margin/padding if needed to fit media text */
+  margin-left: 15px;
+}

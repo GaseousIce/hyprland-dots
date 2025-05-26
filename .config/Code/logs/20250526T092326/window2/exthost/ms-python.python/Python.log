@@ -1,0 +1,7 @@
+2025-05-26 09:59:37.533 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-05-26 09:59:37.533 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-05-26 09:59:37.534 [warning] Dir "/home/waturrr/.config/.pixi/envs" is not watchable (directory does not exist)
+2025-05-26 09:59:37.534 [info] Python interpreter path: /bin/python
+2025-05-26 09:59:37.551 [info] > pyenv which python
+2025-05-26 09:59:37.551 [info] cwd: .
+2025-05-26 09:59:38.963 [info] Starting Pylance language server.

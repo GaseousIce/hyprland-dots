@@ -1,0 +1,98 @@
+# Hyprland Dotfiles
+
+Welcome to your Hyprland dotfiles repository! This repository contains configuration files and resources to set up and personalize your Hyprland environment on Linux. Whether you are a new user or an experienced Linux enthusiast, this guide will help you understand, use, and extend your Hyprland setup with ease.
+
+---
+
+## Table of Contents
+- [About Hyprland](#about-hyprland)
+- [Features](#features)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## About Hyprland
+[Hyprland](https://github.com/hyprwm/Hyprland) is a dynamic tiling Wayland compositor that offers advanced window management, beautiful animations, and extensive customization. It is designed for power users who want a fast, modern, and highly configurable desktop experience.
+
+## Features
+- **Tiling and Floating Windows:** Flexible window management with support for both tiling and floating layouts.
+- **Animations:** Smooth, customizable animations for transitions and window actions.
+- **Wayland Native:** Built from the ground up for Wayland, ensuring modern graphics and security.
+- **Highly Configurable:** Easily adjust keybindings, appearance, and behavior to fit your workflow.
+- **Lightweight:** Minimal resource usage for maximum performance.
+
+## Repository Structure
+This repository is organized to keep your configuration files clean and maintainable. Typical structure (may vary based on your setup):
+
+```
+.
+├── LICENSE           # License information
+├── README.md         # This documentation
+├── hypr/             # Main Hyprland configuration files
+├── scripts/          # Helper scripts (if any)
+├── wallpapers/       # Wallpapers and backgrounds
+├── waybar/           # Waybar (status bar) configuration
+├── rofi/             # Rofi (launcher) configuration
+└── ...               # Other configs (e.g., kitty, alacritty, etc.)
+```
+
+> **Note:** If you do not see all these folders, you can create them as needed to organize your dotfiles.
+
+## Getting Started
+### Prerequisites
+- A Linux distribution with [Hyprland](https://wiki.hyprland.org/Getting-Started/) installed.
+- Basic familiarity with the Linux command line.
+
+### Cloning the Repository
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/hyprland-dots.git
+cd hyprland-dots
+```
+
+### Applying the Dotfiles
+1. **Backup your existing configuration:**
+   Before applying new dotfiles, back up your current Hyprland and related config directories.
+2. **Copy or symlink the configs:**
+   Place the configuration files in the appropriate locations, typically under `~/.config/`.
+   For example:
+   ```bash
+   cp -r hypr ~/.config/
+   cp -r waybar ~/.config/
+   cp -r rofi ~/.config/
+   # ...and so on
+   ```
+   Or use symlinks for easier updates:
+   ```bash
+   ln -s $(pwd)/hypr ~/.config/hypr
+   ln -s $(pwd)/waybar ~/.config/waybar
+   # ...and so on
+   ```
+3. **Restart Hyprland:**
+   Log out and log back in, or restart Hyprland to apply the new configuration.
+
+## Usage
+- **Configuration:** Edit the files in the `hypr/`, `waybar/`, `rofi/`, etc., directories to customize your environment.
+- **Themes:** Change wallpapers, color schemes, and bar styles to personalize your desktop.
+- **Keybindings:** Adjust keybindings in the Hyprland config to match your workflow.
+
+## Customization
+- **Add your own scripts** to the `scripts/` directory for automation and workflow enhancements.
+- **Integrate with other tools** like Rofi, Waybar, and notification daemons for a complete desktop experience.
+- **Version control** your changes to keep your setup portable and reproducible.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve these dotfiles or add new features.
+
+## License
+This repository is licensed under the terms of the [MIT License](LICENSE).
+
+---
+
+**Enjoy your Hyprland experience!**

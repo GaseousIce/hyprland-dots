@@ -1,0 +1,69 @@
+2025/05/25-09:01:03.619 5619 Reusing MANIFEST /home/waturrr/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/05/25-09:01:03.638 5619 Recovering log #56
+2025/05/25-09:01:03.638 5619 Reusing old log /home/waturrr/.config/vesktop/sessionData/Local Storage/leveldb/000056.log 
+2025/05/25-09:04:11.952 5618 Level-0 table #60: started
+2025/05/25-09:04:11.971 5618 Level-0 table #60: 141839 bytes OK
+2025/05/25-09:04:11.978 5618 Delete type=0 #56
+2025/05/25-09:36:25.140 5618 Level-0 table #62: started
+2025/05/25-09:36:25.155 5618 Level-0 table #62: 56821 bytes OK
+2025/05/25-09:36:25.162 5618 Delete type=0 #59
+2025/05/25-09:36:25.162 5618 Compacting 4@0 + 1@1 files
+2025/05/25-09:36:25.170 5618 Generated table #63@0: 111 keys, 154612 bytes
+2025/05/25-09:36:25.170 5618 Compacted 4@0 + 1@1 files => 154612 bytes
+2025/05/25-09:36:25.177 5618 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/25-09:36:25.177 5618 Delete type=2 #60
+2025/05/25-09:36:25.177 5618 Delete type=2 #57
+2025/05/25-09:36:25.177 5618 Delete type=2 #62
+2025/05/25-09:36:25.177 5618 Delete type=2 #55
+2025/05/25-09:36:25.177 5618 Delete type=2 #53
+2025/05/25-09:37:48.340 5618 Level-0 table #65: started
+2025/05/25-09:37:48.356 5618 Level-0 table #65: 13217 bytes OK
+2025/05/25-09:37:48.363 5618 Delete type=0 #61
+2025/05/25-11:29:47.179 5618 Level-0 table #67: started
+2025/05/25-11:29:47.193 5618 Level-0 table #67: 47711 bytes OK
+2025/05/25-11:29:47.200 5618 Delete type=0 #64
+2025/05/25-11:30:45.394 5618 Level-0 table #69: started
+2025/05/25-11:30:45.409 5618 Level-0 table #69: 12806 bytes OK
+2025/05/25-11:30:45.415 5618 Delete type=0 #66
+2025/05/25-11:34:55.496 5618 Level-0 table #71: started
+2025/05/25-11:34:55.511 5618 Level-0 table #71: 48314 bytes OK
+2025/05/25-11:34:55.518 5618 Delete type=0 #68
+2025/05/25-11:34:55.518 5618 Compacting 4@0 + 1@1 files
+2025/05/25-11:34:55.525 5618 Generated table #72@0: 112 keys, 154751 bytes
+2025/05/25-11:34:55.525 5618 Compacted 4@0 + 1@1 files => 154751 bytes
+2025/05/25-11:34:55.536 5618 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/25-11:34:55.536 5618 Delete type=2 #69
+2025/05/25-11:34:55.536 5618 Delete type=2 #63
+2025/05/25-11:34:55.536 5618 Delete type=2 #67
+2025/05/25-11:34:55.537 5618 Delete type=2 #65
+2025/05/25-11:34:55.537 5618 Delete type=2 #71
+2025/05/25-12:40:26.317 5618 Level-0 table #74: started
+2025/05/25-12:40:26.324 5618 Level-0 table #74: 13764 bytes OK
+2025/05/25-12:40:26.330 5618 Delete type=0 #70
+2025/05/25-12:43:39.431 5619 Level-0 table #76: started
+2025/05/25-12:43:39.445 5619 Level-0 table #76: 65596 bytes OK
+2025/05/25-12:43:39.452 5619 Delete type=0 #73
+2025/05/25-13:25:32.432 5619 Level-0 table #78: started
+2025/05/25-13:25:32.447 5619 Level-0 table #78: 12509 bytes OK
+2025/05/25-13:25:32.454 5619 Delete type=0 #75
+2025/05/25-13:34:11.558 5618 Level-0 table #80: started
+2025/05/25-13:34:11.572 5618 Level-0 table #80: 41033 bytes OK
+2025/05/25-13:34:11.579 5618 Delete type=0 #77
+2025/05/25-13:34:11.579 5618 Compacting 4@0 + 1@1 files
+2025/05/25-13:34:11.587 5618 Generated table #81@0: 112 keys, 145938 bytes
+2025/05/25-13:34:11.587 5618 Compacted 4@0 + 1@1 files => 145938 bytes
+2025/05/25-13:34:11.594 5618 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/25-13:34:11.594 5618 Delete type=2 #76
+2025/05/25-13:34:11.594 5618 Delete type=2 #80
+2025/05/25-13:34:11.594 5618 Delete type=2 #72
+2025/05/25-13:34:11.594 5618 Delete type=2 #74
+2025/05/25-13:34:11.594 5618 Delete type=2 #78
+2025/05/25-14:39:27.824 5619 Level-0 table #83: started
+2025/05/25-14:39:27.831 5619 Level-0 table #83: 56910 bytes OK
+2025/05/25-14:39:27.839 5619 Delete type=0 #79
+2025/05/25-17:07:02.610 5618 Level-0 table #85: started
+2025/05/25-17:07:02.618 5618 Level-0 table #85: 46808 bytes OK
+2025/05/25-17:07:02.625 5618 Delete type=0 #82
+2025/05/25-18:05:14.911 5618 Level-0 table #87: started
+2025/05/25-18:05:14.919 5618 Level-0 table #87: 64657 bytes OK
+2025/05/25-18:05:14.927 5618 Delete type=0 #84

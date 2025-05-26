@@ -1,0 +1,111 @@
+2025-05-23 17:06:07.079 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.config/Code - OSS/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 17:06:07.079 [debug] Starting VS Code
+2025-05-23 17:06:07.079 [debug] from: /usr/lib/code
+2025-05-23 17:06:07.079 [debug] args: {"_":[],"diff":false,"merge":false,"add":false,"remove":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"update-extensions":false,"version":false,"verbose":true,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-lcd-text":false,"disable-gpu":false,"disable-chromium-sandbox":false,"sandbox":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"use-inmemory-secretstorage":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"do-not-include-pack-dependencies":false,"trace":false,"trace-memory-infra":false,"preserve-env":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"disable-gpu-sandbox":false,"__enable-file-policy":false,"enable-coi":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"disable-dev-shm-usage":false,"profile-temp":false,"logsPath":"/home/waturrr/.config/Code - OSS/logs/20250523T170607"}
+2025-05-23 17:06:07.079 [trace] Resolving machine identifier...
+2025-05-23 17:06:07.079 [trace] Resolved machine identifier: 6a6b928f3957c258e84d54932a79f1d7f3798ddd111d0b931a102f6afa926e7f
+2025-05-23 17:06:07.079 [trace] Main->SharedProcess#connect
+2025-05-23 17:06:07.079 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User'
+2025-05-23 17:06:07.080 [trace] StorageMainService: creating application storage
+2025-05-23 17:06:07.082 [trace] ElectronURLListener: waiting for window to be ready to handle URLs...
+2025-05-23 17:06:07.083 [trace] lifecycle (main): phase changed (value: 2)
+2025-05-23 17:06:07.083 [trace] windowsManager#open
+2025-05-23 17:06:07.083 [trace] windowsManager#open pathsToOpen [{"backupPath":"/home/waturrr/.config/Code - OSS/Backups/1747999463143"}]
+2025-05-23 17:06:07.084 [trace] windowsManager#doOpenEmpty {"restore":true,"forceNewWindow":true}
+2025-05-23 17:06:07.085 [trace] IPC Object URL: Registered new channel vscode:f06a6cc1-3c45-4e87-9e96-3b02461de5eb.
+2025-05-23 17:06:07.085 [trace] window#validateWindowState: validating window state on 1 display(s) {"mode":0,"x":0,"y":0,"width":960,"height":516}
+2025-05-23 17:06:07.085 [trace] window#validateWindowState: single monitor working area {"x":0,"y":0,"width":1920,"height":1080}
+2025-05-23 17:06:07.085 [trace] window#ctor: using window state {"mode":0,"x":0,"y":0,"width":960,"height":516}
+2025-05-23 17:06:07.103 [trace] window#load: attempt to load window (id: 1)
+2025-05-23 17:06:07.105 [trace] windowsManager#open used window count 1 (workspacesToOpen: 0, foldersToOpen: 0, emptyToRestore: 1, maybeOpenEmptyWindow: false)
+2025-05-23 17:06:07.105 [trace] lifecycle (main): phase changed (value: 3)
+2025-05-23 17:06:07.106 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-05-23 17:06:07.106 [info] update#setState disabled
+2025-05-23 17:06:07.106 [info] update#ctor - updates are disabled as there is no update URL
+2025-05-23 17:06:07.107 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:06:07.135 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-05-23 17:06:07.311 [trace] StorageMainService: creating workspace storage (1747999463143)
+2025-05-23 17:06:07.436 [trace] window#load: window reported ready (id: 1)
+2025-05-23 17:06:07.436 [trace] ElectronURLListener#flush(): flushing URLs
+2025-05-23 17:06:07.500 [trace] [SharedProcess] onWindowConnection for: vscode:createSharedProcessChannelConnectionResult
+2025-05-23 17:06:07.501 [trace] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2025-05-23 17:06:07.504 [trace] [UtilityProcess type: shared-process, pid: <none>]: payload sent via postMessage()
+2025-05-23 17:06:07.505 [trace] [UtilityProcessWorker]: createWorker(window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2025-05-23 17:06:07.505 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2025-05-23 17:06:07.508 [trace] [UtilityProcess type: shared-process, pid: 10512]: successfully created
+2025-05-23 17:06:07.509 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 10513]: successfully created
+2025-05-23 17:06:07.510 [trace] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2025-05-23 17:06:07.513 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 10514]: successfully created
+2025-05-23 17:06:07.707 [trace] [SharedProcess] IPC ready
+2025-05-23 17:06:07.707 [trace] Main->SharedProcess#connect: connection established
+2025-05-23 17:06:07.719 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.config/Code - OSS/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 17:06:07.721 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User'
+2025-05-23 17:06:07.721 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.config/Code - OSS/User/settings.json'
+2025-05-23 17:06:07.728 [trace] [SharedProcess] Overall ready
+2025-05-23 17:06:07.740 [trace] [File Watcher (node.js)] Request to start watching: /home/waturrr/.vscode-oss/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/waturrr/.vscode-oss/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 17:06:07.741 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.vscode-oss/extensions'
+2025-05-23 17:06:07.741 [trace] [File Watcher (node.js)] Started watching: '/home/waturrr/.vscode-oss/extensions/extensions.json'
+2025-05-23 17:06:07.861 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-05-23 17:06:07.887 [debug] Terminal profile not validated fish ["fish"]
+2025-05-23 17:06:07.887 [debug] Terminal profile not validated tmux ["tmux"]
+2025-05-23 17:06:07.887 [debug] Terminal profile not validated pwsh ["pwsh"]
+2025-05-23 17:06:09.608 [trace] lifecycle (main): phase changed (value: 4)
+2025-05-23 17:12:34.913 [trace] Lifecycle#window.on('close') - window ID 1
+2025-05-23 17:12:34.913 [trace] Lifecycle#unload() - window ID 1
+2025-05-23 17:12:34.926 [trace] [UtilityProcess type: ptyHost, pid: <none>]: creating new...
+2025-05-23 17:12:34.931 [trace] PtyHostService#_startPtyHost 
+    at Iu.U (file:///usr/lib/code/out/main.js:93:3012)
+    at Iu.h (file:///usr/lib/code/out/main.js:93:1515)
+    at get f (file:///usr/lib/code/out/main.js:93:1465)
+    at Iu.setTerminalLayoutInfo (file:///usr/lib/code/out/main.js:93:5853)
+    at Object.call (file:///usr/lib/code/out/main.js:33:4564)
+    at Af.s (file:///usr/lib/code/out/main.js:31:20114)
+    at Af.q (file:///usr/lib/code/out/main.js:31:19637)
+    at Zo.value (file:///usr/lib/code/out/main.js:31:19039)
+    at A.B (file:///usr/lib/code/out/main.js:30:2373)
+    at A.C (file:///usr/lib/code/out/main.js:30:2443)
+    at A.fire (file:///usr/lib/code/out/main.js:30:2660)
+    at Zo.value (file:///usr/lib/code/out/main.js:28:4827)
+    at A.B (file:///usr/lib/code/out/main.js:30:2373)
+    at A.fire (file:///usr/lib/code/out/main.js:30:2591)
+    at Zo.value (file:///usr/lib/code/out/main.js:28:5015)
+    at A.B (file:///usr/lib/code/out/main.js:30:2373)
+    at A.fire (file:///usr/lib/code/out/main.js:30:2591)
+    at j (file:///usr/lib/code/out/main.js:28:7302)
+    at IpcMainImpl.i (file:///usr/lib/code/out/main.js:33:21024)
+    at IpcMainImpl.emit (node:events:524:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:87072)
+    at WebContents.emit (node:events:524:28)
+2025-05-23 17:12:34.934 [trace] [UtilityProcess type: ptyHost, pid: 11111]: successfully created
+2025-05-23 17:12:34.935 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 10514]: received exit event with code 0
+2025-05-23 17:12:34.935 [info] Extension host with pid 10514 exited with code: 0, signal: unknown.
+2025-05-23 17:12:34.948 [trace] Lifecycle#onBeforeCloseWindow.fire() - window ID 1
+2025-05-23 17:12:34.950 [trace] IPC Object URL: Removed channel vscode:f06a6cc1-3c45-4e87-9e96-3b02461de5eb.
+2025-05-23 17:12:34.950 [trace] Lifecycle#window.on('closed') - window ID 1
+2025-05-23 17:12:34.951 [trace] Lifecycle#onWillShutdown.fire()
+2025-05-23 17:12:34.952 [trace] Lifecycle#onWillShutdown - begin 'instanceLockfile'
+2025-05-23 17:12:34.952 [trace] storageMainService#onWillShutdown()
+2025-05-23 17:12:34.952 [trace] Lifecycle#onWillShutdown - begin 'applicationStorage'
+2025-05-23 17:12:34.952 [trace] Lifecycle#onWillShutdown - begin 'workspaceStorage'
+2025-05-23 17:12:34.952 [trace] Lifecycle#onWillShutdown - begin 'extHostStarter'
+2025-05-23 17:12:34.952 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 10513]: attempting to kill the process...
+2025-05-23 17:12:34.952 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 10513]: successfully killed the process
+2025-05-23 17:12:34.953 [trace] Lifecycle#onWillShutdown - end 'extHostStarter'
+2025-05-23 17:12:34.953 [trace] Lifecycle#app.on(window-all-closed)
+2025-05-23 17:12:34.953 [trace] Lifecycle#app.on(before-quit)
+2025-05-23 17:12:34.953 [trace] Lifecycle#onBeforeShutdown.fire()
+2025-05-23 17:12:34.953 [trace] [WindowsStateHandler] onBeforeShutdown {"lastActiveWindow":{"backupPath":"/home/waturrr/.config/Code - OSS/Backups/1747999463143","uiState":{"mode":0,"x":0,"y":0,"width":960,"height":516}},"openedWindows":[]}
+2025-05-23 17:12:34.953 [trace] Lifecycle#app.on(will-quit) - begin
+2025-05-23 17:12:34.955 [trace] Lifecycle#onWillShutdown - end 'instanceLockfile'
+2025-05-23 17:12:34.957 [trace] [File Watcher (node.js)] Request to stop watching: /home/waturrr/.config/Code - OSS/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-05-23 17:12:34.957 [trace] [File Watcher (node.js)] stopping file watcher (/home/waturrr/.config/Code - OSS/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-05-23 17:12:34.957 [trace] [File Watcher (node.js)] stopping file watcher (/home/waturrr/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-05-23 17:12:34.958 [trace] StorageMainService: closed application storage
+2025-05-23 17:12:34.958 [trace] Lifecycle#onWillShutdown - end 'applicationStorage'
+2025-05-23 17:12:34.963 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 10513]: received exit event with code 0
+2025-05-23 17:12:34.963 [trace] [UtilityProcessWorker]: terminated normally with code 0, signal: unknown
+2025-05-23 17:12:34.974 [trace] StorageMainService: closed workspace storage (1747999463143)
+2025-05-23 17:12:34.974 [trace] Lifecycle#onWillShutdown - end 'workspaceStorage'
+2025-05-23 17:12:34.975 [trace] Lifecycle#app.on(will-quit) - after fireOnWillShutdown
+2025-05-23 17:12:34.975 [trace] Lifecycle#app.on(will-quit) - calling app.quit()
+2025-05-23 17:12:34.975 [trace] [UtilityProcess type: ptyHost, pid: 11111]: received exit event with code 0

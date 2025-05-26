@@ -1,0 +1,308 @@
+2025-05-26 10:44:34.982 [info] [main] Log level: Info
+2025-05-26 10:44:34.982 [info] [main] Validating found git in: "git"
+2025-05-26 10:44:34.982 [info] [main] Using git "2.49.0" from "git"
+2025-05-26 10:44:34.982 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-26 10:44:34.982 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-26 10:44:34.982 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:34.991 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:34.991 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:34.995 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:34.995 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:35.624 [info] > git rev-parse --show-toplevel [626ms]
+2025-05-26 10:44:35.624 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:35.746 [info] > git rev-parse --show-toplevel [33ms]
+2025-05-26 10:44:35.746 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:35.887 [info] > git rev-parse --show-toplevel [129ms]
+2025-05-26 10:44:35.887 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:35.909 [info] > git rev-parse --show-toplevel [6ms]
+2025-05-26 10:44:35.909 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:35.924 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-26 10:44:35.924 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:35.944 [info] > git rev-parse --show-toplevel [10ms]
+2025-05-26 10:44:35.944 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.127 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-26 10:44:36.128 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.144 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-26 10:44:36.144 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.239 [info] > git rev-parse --show-toplevel [20ms]
+2025-05-26 10:44:36.239 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.252 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-26 10:44:36.252 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.265 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-26 10:44:36.265 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.276 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:36.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.286 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:36.286 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.298 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.298 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.314 [info] > git rev-parse --show-toplevel [7ms]
+2025-05-26 10:44:36.314 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.326 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.326 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.336 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:36.336 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.346 [info] > git rev-parse --show-toplevel [0ms]
+2025-05-26 10:44:36.346 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.356 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:36.356 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.366 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:36.366 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.376 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:36.376 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.387 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.387 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.398 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:36.398 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.409 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.409 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.420 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.420 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.433 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.433 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.445 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.445 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.457 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.457 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.466 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:44:36.466 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:36.468 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-26 10:44:36.590 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:44:36.590 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:44:53.106 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-26 10:44:53.106 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:45:56.759 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:45:56.759 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:45:57.295 [info] > git init -b main [11ms]
+2025-05-26 10:45:57.308 [info] > git rev-parse --show-toplevel [0ms]
+2025-05-26 10:45:57.323 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-05-26 10:45:57.342 [info] [Model][openRepository] Opened repository (path): /home/waturrr
+2025-05-26 10:45:57.342 [info] [Model][openRepository] Opened repository (real path): /home/waturrr
+2025-05-26 10:45:57.370 [info] > git fetch [28ms]
+2025-05-26 10:45:57.388 [info] > git config --get commit.template [18ms]
+2025-05-26 10:45:57.395 [info] > git config --get commit.template [8ms]
+2025-05-26 10:45:57.411 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-26 10:45:57.423 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-26 10:45:57.423 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-05-26 10:45:57.423 [warning] [Git][getBranch] No such branch: main
+2025-05-26 10:45:57.451 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2025-05-26 10:45:57.451 [warning] [Git][getBranch] No such branch: main
+2025-05-26 10:45:57.452 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-05-26 10:45:57.452 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2025-05-26 10:45:57.452 [warning] [Git][getBranch] No such branch: main
+2025-05-26 10:45:57.455 [info] > git config --get commit.template [4ms]
+2025-05-26 10:45:57.478 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-26 10:45:57.478 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [11ms]
+2025-05-26 10:45:57.479 [info] fatal: bad revision 'refs/heads/main'
+2025-05-26 10:45:57.479 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-05-26 10:45:57.479 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:45:57.479 [warning] [Git][getBranch] No such branch: main
+2025-05-26 10:45:57.503 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-05-26 10:45:57.504 [info] > git status -z -uall [14ms]
+2025-05-26 10:45:57.547 [info] > git config --get commit.template [3ms]
+2025-05-26 10:45:57.558 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-26 10:45:57.558 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-05-26 10:45:57.558 [warning] [Git][getBranch] No such branch: main
+2025-05-26 10:45:57.581 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms]
+2025-05-26 10:45:57.584 [info] > git status -z -uall [15ms]
+2025-05-26 10:45:58.604 [info] > git check-ignore -v -z --stdin [1ms]
+2025-05-26 10:46:04.680 [info] > git add -A -- . [7325ms]
+2025-05-26 10:46:04.717 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty-message [26ms]
+2025-05-26 10:46:04.730 [info] > git config --get commit.template [1ms]
+2025-05-26 10:46:04.752 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-26 10:46:04.752 [info] > git config --get commit.template [11ms]
+2025-05-26 10:46:04.752 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:46:04.775 [info] > git status -z -uall [12ms]
+2025-05-26 10:46:04.775 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-26 10:46:04.961 [info] > git config --get commit.template [5ms]
+2025-05-26 10:46:04.980 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-26 10:46:04.981 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:46:05.017 [info] > git status -z -uall [18ms]
+2025-05-26 10:46:05.018 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-26 10:46:05.046 [info] > git remote add origin https://github.com/GaseousIce/hyprland-dots.git [10ms]
+2025-05-26 10:46:05.079 [info] > git config --get commit.template [19ms]
+2025-05-26 10:46:05.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:46:05.114 [info] > git status -z -uall [19ms]
+2025-05-26 10:46:05.115 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-26 10:46:05.740 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-26 10:46:07.002 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [2196ms]
+2025-05-26 10:46:07.520 [info] > git add -A -- . [14ms]
+2025-05-26 10:46:07.903 [info] > git show --textconv :.git/COMMIT_EDITMSG [20ms]
+2025-05-26 10:46:07.928 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [26ms]
+2025-05-26 10:46:07.959 [info] > git hash-object -t tree /dev/null [33ms]
+2025-05-26 10:46:07.959 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/waturrr/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-05-26 10:46:07.967 [info] > git hash-object -t tree /dev/null [10ms]
+2025-05-26 10:46:07.967 [warning] [GitFileSystemProvider][stat] File not found - git:/home/waturrr/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-05-26 10:46:08.250 [info] > git check-ignore -v -z --stdin [3ms]
+2025-05-26 10:46:14.573 [info] > git blame --root --incremental d8452837537c6f496e2b5a3e4050a6af411ab339 -- .git/COMMIT_EDITMSG [1ms]
+2025-05-26 10:46:14.573 [info] fatal: no such path .git/COMMIT_EDITMSG in d8452837537c6f496e2b5a3e4050a6af411ab339
+2025-05-26 10:46:42.782 [info] > git -c user.useConfigOnly=true commit --quiet [35248ms]
+2025-05-26 10:46:42.798 [info] > git config --get commit.template [1ms]
+2025-05-26 10:46:42.811 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:46:42.834 [info] > git status -z -uall [13ms]
+2025-05-26 10:46:42.835 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-26 10:46:42.868 [info] > git config --get commit.template [1ms]
+2025-05-26 10:46:42.880 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:46:42.906 [info] > git status -z -uall [14ms]
+2025-05-26 10:46:42.907 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-26 10:46:43.532 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-26 10:46:43.854 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [1003ms]
+2025-05-26 10:46:50.319 [info] > git add -A -- . [25ms]
+2025-05-26 10:46:50.704 [info] > git show --textconv :.git/COMMIT_EDITMSG [14ms]
+2025-05-26 10:46:50.705 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/waturrr/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-05-26 10:46:50.705 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [2ms]
+2025-05-26 10:46:50.705 [warning] [GitFileSystemProvider][stat] File not found - git:/home/waturrr/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-05-26 10:46:50.721 [info] > git blame --root --incremental a3f258a0b325c367f2580b554a1d14a93aa34106 -- .git/COMMIT_EDITMSG [1ms]
+2025-05-26 10:46:50.721 [info] fatal: no such path .git/COMMIT_EDITMSG in a3f258a0b325c367f2580b554a1d14a93aa34106
+2025-05-26 10:46:55.734 [info] > git -c user.useConfigOnly=true commit --quiet [5401ms]
+2025-05-26 10:46:55.734 [info] Aborting commit due to empty commit message.
+2025-05-26 10:46:55.748 [info] > git config --get commit.template [1ms]
+2025-05-26 10:46:55.761 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:46:55.785 [info] > git status -z -uall [14ms]
+2025-05-26 10:46:55.786 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-26 10:46:56.423 [info] > git check-ignore -v -z --stdin [1ms]
+2025-05-26 10:46:57.380 [info] > git diff-tree -r --name-status -z --diff-filter=ADMR --find-renames=50% d8452837537c6f496e2b5a3e4050a6af411ab339 a3f258a0b325c367f2580b554a1d14a93aa34106 [1ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/User/globalStorage/state.vscdb [199ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/User/workspaceStorage/348eac6a40f33a72f15fee7b135fd7bb/state.vscdb [177ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/User/workspaceStorage/348eac6a40f33a72f15fee7b135fd7bb/state.vscdb [167ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/logs/20250526T104432/window1/exthost/exthost.log [158ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/logs/20250526T104432/window1/exthost/exthost.log [148ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [137ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [126ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [116ms]
+2025-05-26 10:46:57.601 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [105ms]
+2025-05-26 10:46:57.601 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [2ms]
+2025-05-26 10:46:57.602 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [14ms]
+2025-05-26 10:46:57.602 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [24ms]
+2025-05-26 10:46:57.602 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [34ms]
+2025-05-26 10:46:57.602 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [45ms]
+2025-05-26 10:46:57.602 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [55ms]
+2025-05-26 10:46:57.602 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/User/workspaceStorage/348eac6a40f33a72f15fee7b135fd7bb/state.vscdb [66ms]
+2025-05-26 10:46:57.602 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/User/workspaceStorage/348eac6a40f33a72f15fee7b135fd7bb/state.vscdb [76ms]
+2025-05-26 10:46:57.603 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/User/globalStorage/state.vscdb [87ms]
+2025-05-26 10:46:57.603 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/User/globalStorage/state.vscdb [97ms]
+2025-05-26 10:46:57.607 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/User/globalStorage/state.vscdb [193ms]
+2025-05-26 10:46:58.117 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-26 10:47:10.791 [info] > git diff-tree -r --name-status -z --diff-filter=ADMR --find-renames=50% d8452837537c6f496e2b5a3e4050a6af411ab339 a3f258a0b325c367f2580b554a1d14a93aa34106 [1ms]
+2025-05-26 10:47:10.879 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/User/workspaceStorage/348eac6a40f33a72f15fee7b135fd7bb/state.vscdb [46ms]
+2025-05-26 10:47:10.879 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/User/workspaceStorage/348eac6a40f33a72f15fee7b135fd7bb/state.vscdb [36ms]
+2025-05-26 10:47:10.880 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/User/workspaceStorage/348eac6a40f33a72f15fee7b135fd7bb/state.vscdb [10ms]
+2025-05-26 10:47:10.880 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/User/globalStorage/state.vscdb [20ms]
+2025-05-26 10:47:10.880 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/User/globalStorage/state.vscdb [27ms]
+2025-05-26 10:47:10.881 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/User/workspaceStorage/348eac6a40f33a72f15fee7b135fd7bb/state.vscdb [2ms]
+2025-05-26 10:47:10.882 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/User/globalStorage/state.vscdb [76ms]
+2025-05-26 10:47:10.882 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/User/globalStorage/state.vscdb [62ms]
+2025-05-26 10:47:11.673 [info] > git diff-tree -r --name-status -z --diff-filter=ADMR --find-renames=50% d8452837537c6f496e2b5a3e4050a6af411ab339 a3f258a0b325c367f2580b554a1d14a93aa34106 [1ms]
+2025-05-26 10:47:18.136 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [7ms]
+2025-05-26 10:47:18.147 [info] > git config --get commit.template [0ms]
+2025-05-26 10:47:18.158 [info] > git config --get commit.template [1ms]
+2025-05-26 10:47:18.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:47:18.192 [info] > git status -z -uall [13ms]
+2025-05-26 10:47:18.192 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-26 10:47:18.220 [info] > git config --get commit.template [1ms]
+2025-05-26 10:47:18.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-26 10:47:18.256 [info] > git status -z -uall [13ms]
+2025-05-26 10:47:18.256 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms]
+2025-05-26 10:47:18.880 [info] > git check-ignore -v -z --stdin [1ms]
+2025-05-26 10:47:19.188 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [982ms]
+2025-05-26 10:47:19.557 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [11ms]
+2025-05-26 10:47:19.557 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [22ms]
+2025-05-26 10:47:19.557 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [33ms]
+2025-05-26 10:47:19.558 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [45ms]
+2025-05-26 10:47:19.558 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [57ms]
+2025-05-26 10:47:19.570 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [14ms]
+2025-05-26 10:47:19.617 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [48ms]
+2025-05-26 10:47:19.617 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [35ms]
+2025-05-26 10:47:19.617 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [23ms]
+2025-05-26 10:47:19.617 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/logs/20250526T104432/window1/exthost/exthost.log [12ms]
+2025-05-26 10:47:19.630 [info] > git show --textconv d8452837537c6f496e2b5a3e4050a6af411ab339:.config/Code/logs/20250526T104432/window1/exthost/exthost.log [14ms]
+2025-05-26 10:47:19.630 [info] > git show --textconv a3f258a0b325c367f2580b554a1d14a93aa34106:.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [1ms]
+2025-05-26 10:47:33.794 [info] > git check-ignore -v -z --stdin [8ms]
+2025-05-26 10:47:45.555 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [992ms]
+2025-05-26 10:48:01.722 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [12ms]
+2025-05-26 10:48:01.722 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [23ms]
+2025-05-26 10:48:01.722 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [33ms]
+2025-05-26 10:48:01.722 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [46ms]
+2025-05-26 10:48:01.722 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [57ms]
+2025-05-26 10:48:01.723 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [3ms]
+2025-05-26 10:48:04.530 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [12ms]
+2025-05-26 10:48:04.530 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [23ms]
+2025-05-26 10:48:04.530 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [34ms]
+2025-05-26 10:48:04.531 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [46ms]
+2025-05-26 10:48:04.531 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [59ms]
+2025-05-26 10:48:04.531 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [2ms]
+2025-05-26 10:48:20.906 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [11ms]
+2025-05-26 10:48:20.906 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:20.907 [warning] [GitFileSystemProvider][stat] File not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub%20Authentication.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.github-authentication%2FGitHub%20Authentication.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:48:20.908 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [25ms]
+2025-05-26 10:48:20.908 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:20.908 [warning] [GitFileSystemProvider][stat] File not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:48:20.908 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log [38ms]
+2025-05-26 10:48:20.908 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:20.908 [warning] [GitFileSystemProvider][stat] File not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:48:20.908 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [53ms]
+2025-05-26 10:48:20.908 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:20.908 [warning] [GitFileSystemProvider][stat] File not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/exthost.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fexthost.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:48:20.908 [info] > git ls-tree -l d8452837537c6f496e2b5a3e4050a6af411ab339 -- .config/Code/logs/20250526T104432/window1/exthost/exthost.log [71ms]
+2025-05-26 10:48:20.908 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:20.908 [warning] [GitFileSystemProvider][stat] File not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/exthost.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fexthost.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:48:20.911 [info] > git ls-tree -l a3f258a0b325c367f2580b554a1d14a93aa34106 -- .config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub Authentication.log [6ms]
+2025-05-26 10:48:20.911 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:20.911 [warning] [GitFileSystemProvider][stat] File not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub%20Authentication.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.github-authentication%2FGitHub%20Authentication.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:48:21.427 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:48:21.427 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:22.100 [info] > git push -u origin main [136967ms]
+2025-05-26 10:48:22.100 [info] remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File .config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.3.2 is 65.00 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File .config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-completions-2.0.1 is 88.57 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/GaseousIce/hyprland-dots.git
+ * [new branch]      main -> main
+error: could not lock config file .git/config: No such file or directory
+error: unable to write upstream branch configuration
+hint:
+hint: After fixing the error cause you may try to fix up
+hint: the remote tracking information by invoking:
+hint:   git branch --set-upstream-to=origin/refs/heads/main
+error: update_ref failed for ref 'refs/remotes/origin/main': cannot update ref 'refs/remotes/origin/main': trying to write ref 'refs/remotes/origin/main' with nonexistent object d8452837537c6f496e2b5a3e4050a6af411ab339
+2025-05-26 10:48:22.113 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/waturrr/.git/HEAD'
+2025-05-26 10:48:22.123 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/waturrr/.git/config'
+2025-05-26 10:48:22.136 [info] > git config --get commit.template [1ms]
+2025-05-26 10:48:22.137 [info] > git remote --verbose [14ms]
+2025-05-26 10:48:22.137 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:22.137 [info] > git symbolic-ref --short HEAD [24ms]
+2025-05-26 10:48:22.137 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:22.160 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/waturrr/.git/HEAD'
+2025-05-26 10:48:22.170 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/waturrr/.git/config'
+2025-05-26 10:48:22.184 [info] > git config --get commit.template [2ms]
+2025-05-26 10:48:22.184 [info] > git remote --verbose [14ms]
+2025-05-26 10:48:22.184 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:22.184 [info] > git symbolic-ref --short HEAD [24ms]
+2025-05-26 10:48:22.184 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:22.196 [info] > git rev-parse HEAD [47ms]
+2025-05-26 10:48:22.196 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:22.197 [info] > git rev-parse HEAD [1ms]
+2025-05-26 10:48:22.197 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:48:22.703 [info] > git rev-parse --show-toplevel [0ms]
+2025-05-26 10:48:22.703 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:49:09.995 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/exthost.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fexthost.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:49:09.995 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/exthost.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fexthost.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:49:09.995 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:49:09.995 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:49:09.996 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub%20Authentication.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.github-authentication%2FGitHub%20Authentication.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:49:09.996 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub%20Authentication.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.github-authentication%2FGitHub%20Authentication.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:49:13.338 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-26 10:49:13.338 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-26 10:49:16.065 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/exthost.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fexthost.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:49:16.065 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/exthost.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fexthost.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:49:16.065 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:49:16.065 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.git/Git.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.git%2FGit.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:49:16.065 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub%20Authentication.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.github-authentication%2FGitHub%20Authentication.log%22%2C%22ref%22%3A%22d8452837537c6f496e2b5a3e4050a6af411ab339%22%7D
+2025-05-26 10:49:16.065 [warning] [GitFileSystemProvider][stat] Repository not found - git:/home/waturrr/.config/Code/logs/20250526T104432/window1/exthost/vscode.github-authentication/GitHub%20Authentication.log?%7B%22path%22%3A%22%2Fhome%2Fwaturrr%2F.config%2FCode%2Flogs%2F20250526T104432%2Fwindow1%2Fexthost%2Fvscode.github-authentication%2FGitHub%20Authentication.log%22%2C%22ref%22%3A%22a3f258a0b325c367f2580b554a1d14a93aa34106%22%7D
+2025-05-26 10:49:16.752 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-26 10:49:16.752 [info] fatal: not a git repository (or any of the parent directories): .git
