@@ -1,5 +1,7 @@
 # Hyprland Dotfiles
 
+> # I am currently using [ML4W dotfiles](https://github.com/mylinuxforwork/dotfiles), so it won't be updated for a while
+
 > **Note:** This repository is currently under development and may not be stable. I am actively pushing new configurations and features. Stable releases will be tagged and announced once they are ready. Use at your own discretion if you need a production-ready setup.
 
 Welcome to my Hyprland dotfiles repository! This repository contains detailed configuration files for Hyprland and related applications, organized under the `.config/` directory for easy management and portability.
