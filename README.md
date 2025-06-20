@@ -87,6 +87,10 @@ cd hyprland-dots
 
 Contributions are welcome! Open issues or submit pull requests to improve these dotfiles or add new features.
 
+## TODO
+- [ ] Convert it into a stow repo for easy management
+- [ ] Create a simple install script to easily install with dependencies
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
