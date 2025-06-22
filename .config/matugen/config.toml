@@ -1,6 +1,6 @@
 [config.wallpaper]
 command = "swww"
-arguments = ["img", "--transition-type", "center", "--transition-step", "255", "--transition-fps", "144","--transition-duration","0.5"]
+arguments = ["img", "--transition-type", "center", "--transition-step", "25", "--transition-fps", "144","--transition-duration","0.5"]
 set = true
 
 [templates.hyprland]
@@ -52,3 +52,12 @@ output_path = '~/.config/qt6ct/colors/matugen.conf'
 input_path = '~/.config/matugen/templates/web-colors.css'
 output_path = '~/Playground/HTML Webpages/startpage/colors.css'
 
+# Material You for Vencord
+[templates.discord]
+input_path = '~/.config/matugen/templates/Material-Discord.theme.css'
+output_path = '~/.config/Vencord/themes/Material-Discord.theme.css'
+
+# Spicetify with Comfy theme
+[templates.spicetify]
+input_path = '~/.config/matugen/templates/spotify.ini'
+output_path = '~/.config/spicetify/Themes/Comfy/color.ini'
