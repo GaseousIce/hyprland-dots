@@ -61,3 +61,12 @@ output_path = '~/.config/Vencord/themes/Material-Discord.theme.css'
 [templates.spicetify]
 input_path = '~/.config/matugen/templates/spotify.ini'
 output_path = '~/.config/spicetify/Themes/Comfy/color.ini'
+
+[templates.cava]
+input_path = '~/.config/matugen/templates/config'
+output_path = '~/.config/cava/config'
+post_hook = 'pkill -USR2 cava'
+
+[templates.rmpc]
+input_path = '~/.config/matugen/templates/rmpc.ron'
+output_path = '~/.config/rmpc/themes/custom.ron'
